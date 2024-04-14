@@ -18,7 +18,7 @@ https://aegisctf.kktix.cc/events/2023aegiscof
 
 ## 台科資安社-滲透測試工作坊
 ### 2023/11/04
-[HackMD Note](https://hackmd.io/@CHW/B1TblYz76)
+[HackMD Note](https://hackmd.io/@CHW/B1TblYz76) \
 ![IMG_2233](https://hackmd.io/_uploads/Hklr4mZV6.png)
 
 ## 2023 T貓盃全國資安基礎實務能力競賽 
