@@ -1,8 +1,7 @@
 # 📈Schedule
 
-:::info
-:bulb: 個人Schedule 論壇/比賽 紀錄
-:::
+> [!NOTE]
+> :bulb: 個人Schedule 論壇/比賽 紀錄
 
 # Table of Contents
 
