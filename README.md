@@ -297,7 +297,7 @@ https://conf.devco.re/2024/agenda/ \
 2024/03/16（六）08:40 - 16:20\
 地點：\
 TICC 台北國際會議中心 201 會議室（台北市信義區信義路五段 1 號） \
-![image](https://hackmd.io/_uploads/H1lTEn6Nha.png)
+![image](https://hackmd.io/_uploads/H1lTEn6Nha.png) \
 **議程介紹**\
 本次研討會將分享最新的漏洞研究和真實紅隊演練案例，其中包括 WAF 的繞過、AD 網域安全、新的攻擊向量、Pwn2Own 經驗、以藍隊從業人員的視角分享紅隊攻擊思路，以及紅隊演練工具開發指南等獨特議題。
 
