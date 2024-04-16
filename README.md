@@ -412,7 +412,6 @@ Provide the design for this product. You can embed Figma files with this syntax 
 
 :::success
 Discuss other things that are not on the above. For example, any blind spot on our product specs?
-:::
 
 1. 
 2. 
