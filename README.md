@@ -408,11 +408,6 @@ Provide the design for this product. You can embed Figma files with this syntax 
 
 
 
-## 💬 Open Questions
-
-:::success
-
-
 1. 
 2. 
 
