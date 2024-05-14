@@ -370,7 +370,14 @@ DEVCORE 實習生導師 Angelboy 曾經說過一句話：「Pwn2Own IoT 那場�
 > 周彥儒 (Stanley Chou) / OneDegree 資安長
 
 在此演講中，講者將闡明如何通過對抗性攻擊來誤導大語言模型（LLM）。講者將涵蓋常見的 LLM 應用案例，重點說明技術所產生的新興威脅，深入探討 LLM 對抗性攻擊後，通過實際案例來說明可能之負面影響。演講將介紹 LLM 安全與合規測試的概念，強調此類測試在評估和增強 LLM 安全性以提高可信任 AI 方面的關鍵作用。最終，此演講旨在提高觀眾對於 LLM 技術風險的理解，並鼓勵採取積極策略以防範此類對抗性威脅。
-
+![image](https://github.com/Chw41/Schedule/assets/141213003/fdadd4c8-ee1f-43f2-9fa4-66273d83ecb7)
+![image](https://github.com/Chw41/Schedule/assets/141213003/efd81073-03c5-4106-b654-d79399c5e5ad)
+![image](https://github.com/Chw41/Schedule/assets/141213003/c0a4e275-2046-47d3-8f6d-5092eba2ab2a)
+![image](https://github.com/Chw41/Schedule/assets/141213003/fbe92545-03a5-4847-9bc9-a8e787ebbd44)
+![image](https://github.com/Chw41/Schedule/assets/141213003/53bedf38-3f59-421e-9093-04c29a820641)
+![image](https://github.com/Chw41/Schedule/assets/141213003/53825cdb-2047-4293-b5eb-814c6c64600d)
+![image](https://github.com/Chw41/Schedule/assets/141213003/3b7ebb8b-d2b2-4582-8521-219986c73295)
+![image](https://github.com/Chw41/Schedule/assets/141213003/816d6ed4-93bd-4410-b2d8-04f93d370bd6)
 
 ### 2024/05/15
 
