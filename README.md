@@ -1,4 +1,4 @@
-![image](https://github.com/Chw41/Schedule/assets/141213003/427304ef-489f-496e-8878-07ba75616313)# 📈Schedule
+# 📈Schedule
 
 > [!NOTE]
 > :bulb: 個人Schedule 論壇/比賽 紀錄
