@@ -1,4 +1,4 @@
-# 📈Schedule
+![image](https://github.com/Chw41/Schedule/assets/141213003/427304ef-489f-496e-8878-07ba75616313)# 📈Schedule
 
 > [!NOTE]
 > :bulb: 個人Schedule 論壇/比賽 紀錄
@@ -355,12 +355,22 @@ DEVCORE 實習生導師 Angelboy 曾經說過一句話：「Pwn2Own IoT 那場�
 > 陳樞元 (Coco chen) / 奧義智慧科技 Data Scientist
 
 本議程將從多個面向 ( e.g., 無害性和本土化 ) 評估不同模型於台灣資安領域應用的能力，分析 TAIDE、Taiwan LLM 和奧義智慧研發的 LLM-CyCraftGPT 等不同模型的表現，了解它們在應對各種問題時的適用性 ，幫助聽眾在未來能更快速選擇適合的模型。
-
+![image](https://github.com/Chw41/Schedule/assets/141213003/83e40abd-ae8b-4b0f-b041-39f2e2c1924f)
+![image](https://github.com/Chw41/Schedule/assets/141213003/81ace541-0f7d-4ba5-8fee-cd51f8a9a2c2)
+![image](https://github.com/Chw41/Schedule/assets/141213003/79392d60-405f-468d-b68b-2a7fb822236c)
+![image](https://github.com/Chw41/Schedule/assets/141213003/88ae3d8e-a82d-4b10-b2f5-240b9d9c32ce)
+![image](https://github.com/Chw41/Schedule/assets/141213003/66c441d4-3a97-4201-8085-7b17da427e61)
+![image](https://github.com/Chw41/Schedule/assets/141213003/217647dd-f2d7-40b7-867d-cfef467c10ff)
+![image](https://github.com/Chw41/Schedule/assets/141213003/970ff88b-2996-4713-aea9-0833db5673d3)
+![image](https://github.com/Chw41/Schedule/assets/141213003/26ea1407-8273-4867-b32c-21a72e48d658)
+![image](https://github.com/Chw41/Schedule/assets/141213003/59aed9a6-9a6d-4da2-bee4-e2064fb49f08)
+![image](https://github.com/Chw41/Schedule/assets/141213003/d745ecb4-dad5-4dbe-b6e4-e039c1678295)
 
 #### LLM 對抗性攻擊 - 網絡安全專家不應忽視的威脅 (OneDegree)
 > 周彥儒 (Stanley Chou) / OneDegree 資安長
 
 在此演講中，講者將闡明如何通過對抗性攻擊來誤導大語言模型（LLM）。講者將涵蓋常見的 LLM 應用案例，重點說明技術所產生的新興威脅，深入探討 LLM 對抗性攻擊後，通過實際案例來說明可能之負面影響。演講將介紹 LLM 安全與合規測試的概念，強調此類測試在評估和增強 LLM 安全性以提高可信任 AI 方面的關鍵作用。最終，此演講旨在提高觀眾對於 LLM 技術風險的理解，並鼓勵採取積極策略以防範此類對抗性威脅。
+
 
 ### 2024/05/15
 
