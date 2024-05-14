@@ -334,6 +334,39 @@ DEVCORE 實習生導師 Angelboy 曾經說過一句話：「Pwn2Own IoT 那場�
 ![image](https://hackmd.io/_uploads/HyzylZgyC.png)
 ![image](https://hackmd.io/_uploads/S1LMxZe1A.png)
 
+## CYBERSEC 2024 臺灣資安大會
+2024 年 5 月 14 日 (二) 至 5 月 16 日 (四) 由 iThome 主辦的 CYBERSEC 2024 臺灣資安大會
+
+報到時間：5/14 (二)、5/15 (三)、5/16 (四) 皆為 08:00 起開放報到\
+報到地點：南港展覽二館 1 樓《Cyber Talent》大會服務台（台北市南港區經貿二路 2 號）\
+交通資訊：https://www.tainex.com.tw/service/transportation/drive \
+大會官網：https://cybersec.ithome.com.tw/2024/
+### 2024/05/14
+#### 以生成式 AI 輔助對抗進階持續威脅 (台大)
+> 許凱平 / 國立臺灣大學計算機及資訊網路中心 作業管理組 副組長
+
+這場演講中將揭示生成式 AI（如 ChatGPT）在對抗進階持續威脅（APT）中的關鍵作用。APT 是針對性強、持續時間長的網路攻擊，涉及潛伏、資料竊取等多重威脅。我們將深入探討 AI 在偵測、分析、回應和預測這些攻擊中的應用。從自動分類偵測事件，到識別網絡異常， AI 幫助揭露攻擊者策略，並提出有效的防禦措施。此演講將展現 AI 如何提高資安效能，並與資安專家的見解結合，共同提升防禦策略。
+![image](https://github.com/Chw41/Schedule/assets/141213003/4ace3e9b-b3ec-4239-aaa4-211e37362a2b)
+![image](https://github.com/Chw41/Schedule/assets/141213003/13e97d67-bdf5-4f1f-9c96-5031d15a9153)
+![image](https://github.com/Chw41/Schedule/assets/141213003/cd93d0a2-5d97-47f5-b215-f60e55bfa484)
+![image](https://github.com/Chw41/Schedule/assets/141213003/953aa1d2-137c-4e25-94aa-9805ea8583e9)
+
+#### 台灣語言模型於資安的應用：適用性與性能全方位探討 (奧義)
+> 陳樞元 (Coco chen) / 奧義智慧科技 Data Scientist
+
+本議程將從多個面向 ( e.g., 無害性和本土化 ) 評估不同模型於台灣資安領域應用的能力，分析 TAIDE、Taiwan LLM 和奧義智慧研發的 LLM-CyCraftGPT 等不同模型的表現，了解它們在應對各種問題時的適用性 ，幫助聽眾在未來能更快速選擇適合的模型。
+
+
+#### LLM 對抗性攻擊 - 網絡安全專家不應忽視的威脅 (OneDegree)
+> 周彥儒 (Stanley Chou) / OneDegree 資安長
+
+在此演講中，講者將闡明如何通過對抗性攻擊來誤導大語言模型（LLM）。講者將涵蓋常見的 LLM 應用案例，重點說明技術所產生的新興威脅，深入探討 LLM 對抗性攻擊後，通過實際案例來說明可能之負面影響。演講將介紹 LLM 安全與合規測試的概念，強調此類測試在評估和增強 LLM 安全性以提高可信任 AI 方面的關鍵作用。最終，此演講旨在提高觀眾對於 LLM 技術風險的理解，並鼓勵採取積極策略以防範此類對抗性威脅。
+
+### 2024/05/15
+
+### 2024/05/16
+
+
 ## AIS3 Pre-exam CTF 2024
 ### 初賽: 2024/05/25-27
 **活動時程**\
