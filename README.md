@@ -1,4 +1,4 @@
-![image](https://github.com/Chw41/Schedule/assets/141213003/8607b3ed-5afb-4e4d-8ded-ad5d7e56db41)# 📈Schedule
+# 📈Schedule
 
 > [!NOTE]
 >  :bulb: 個人Schedule 論壇/比賽 紀錄
@@ -17,7 +17,7 @@ https://aegisctf.kktix.cc/events/2023aegiscof
 
 # 台科資安社-滲透測試工作坊
 ## 2023/11/04
-[HackMD Note](https://hackmd.io/@CHW/B1TblYz76)
+[HackMD Note](https://hackmd.io/@CHW/B1TblYz76)\
 ![IMG_2233](https://hackmd.io/_uploads/Hklr4mZV6.png)
 
 # 2023 T貓盃全國資安基礎實務能力競賽 
@@ -354,7 +354,10 @@ DEVCORE 實習生導師 Angelboy 曾經說過一句話：「Pwn2Own IoT 那場�
 ![image](https://github.com/Chw41/Schedule/assets/141213003/13e97d67-bdf5-4f1f-9c96-5031d15a9153)
 ![image](https://github.com/Chw41/Schedule/assets/141213003/cd93d0a2-5d97-47f5-b215-f60e55bfa484)
 ![image](https://github.com/Chw41/Schedule/assets/141213003/953aa1d2-137c-4e25-94aa-9805ea8583e9)
-
+```note
+1. 分享在生成式AI中遇到的攻擊手法
+2. Ice Apple
+```
 ### 台灣語言模型於資安的應用：適用性與性能全方位探討 (奧義)
 > 陳樞元 (Coco chen) / 奧義智慧科技 Data Scientist
 
@@ -369,7 +372,14 @@ DEVCORE 實習生導師 Angelboy 曾經說過一句話：「Pwn2Own IoT 那場�
 ![image](https://github.com/Chw41/Schedule/assets/141213003/26ea1407-8273-4867-b32c-21a72e48d658)
 ![image](https://github.com/Chw41/Schedule/assets/141213003/59aed9a6-9a6d-4da2-bee4-e2064fb49f08)
 ![image](https://github.com/Chw41/Schedule/assets/141213003/d745ecb4-dad5-4dbe-b6e4-e039c1678295)
-
+```note
+1. LLM 繁體中文在整體的占比
+2. 介紹專用繁體中文的本土化LLM (繁體中文 & 不含中國用語):
+    TAIDE & TaiwanLLM
+3. 奧義 CyCraftGPT 專屬於台灣資安領域的LLM
+4. FLASK 評分標準 (不是python flask)
+5. CyCraftGPT 與其他現有本土LLM比較
+```
 ### LLM 對抗性攻擊 - 網絡安全專家不應忽視的威脅 (OneDegree)
 > 周彥儒 (Stanley Chou) / OneDegree 資安長
 
@@ -382,7 +392,15 @@ DEVCORE 實習生導師 Angelboy 曾經說過一句話：「Pwn2Own IoT 那場�
 ![image](https://github.com/Chw41/Schedule/assets/141213003/53825cdb-2047-4293-b5eb-814c6c64600d)
 ![image](https://github.com/Chw41/Schedule/assets/141213003/3b7ebb8b-d2b2-4582-8521-219986c73295)
 ![image](https://github.com/Chw41/Schedule/assets/141213003/816d6ed4-93bd-4410-b2d8-04f93d370bd6)
-
+```note
+1. 介紹企業中的LLM
+2. 生成式AI的弱點與攻擊類型，對比傳統的攻擊手法
+3. 籃隊防禦架構:
+    SEIM、CMDB、EDR/NDR、Pen Test、IAM、DLP、IPS/IDS、WAF
+4. LLM Red Team
+5. 黑箱與白相比較
+6. LLM Red Team 演練方法
+```
 ## 2024/05/15
 ### 資安比賽的冒險之旅：培養專業人才、職涯發展的跳板 (Cymetrics)
 > 尤理衡 (Li-Heng Yu) / Cymetrics Security Engineer
@@ -402,7 +420,12 @@ DEVCORE 實習生導師 Angelboy 曾經說過一句話：「Pwn2Own IoT 那場�
 ![image](https://github.com/Chw41/Schedule/assets/141213003/7c8a7c56-35cd-4f63-999a-837a0ad950d0)
 ![image](https://github.com/Chw41/Schedule/assets/141213003/3a47987a-d6f5-4d3f-b51d-d8f9a2e20e34)
 ![image](https://github.com/Chw41/Schedule/assets/141213003/7b2a305a-dc90-4cf5-a8af-1000b456506e)
-
+```note
+1. seadog007國內外比賽經歷
+2. 比賽性質: 紅隊 & 籃隊
+3. 比賽技巧 & 比賽技能
+4. 比賽經歷與職場職位對應
+```
 ### 30 分鐘看完資安工程師的一年：滲透案例解析與統整 (Cymetrics)
 > Zet / Cymetrics Security Team Leader\
 > Nick Nick / Cymetrics Senior Security Engineer
@@ -429,12 +452,24 @@ DEVCORE 實習生導師 Angelboy 曾經說過一句話：「Pwn2Own IoT 那場�
 ![image](https://github.com/Chw41/Schedule/assets/141213003/fea60a65-c709-4867-8c21-aaf21a31cbf6)
 ![image](https://github.com/Chw41/Schedule/assets/141213003/6afa49ea-eb4e-47f2-aff3-2565e1659c4b)
 ![image](https://github.com/Chw41/Schedule/assets/141213003/122b324c-e363-4fe7-bde2-5cc49083431f)
-
+```note
+1. 滲透工程師工作內容
+2. 團隊介紹與滲透服務介紹
+3. 滲透經歷個案分享:
+    - OTP弱點 & 爆破時間
+    - IDOR前端重設密碼 弱點
+     (JWT & UUID 增強防護)
+    - 釣魚郵件
+     (除了社交工程，更要防止駭客寄出郵件)
+4. 提升滲透測試效率
+```
 ### 框架化你的紅隊成果！從問題解決到長期資安策略 (Devcore)
 > 翁浩正 / DEVCORE 執行長\
 > 張亭儀 / DEVCORE 商務發展經理
 
 「我的企業真的安全嗎？」一直是企業在紅隊演練後難以回答的問題。企業常僅止於解決短期問題，而難以融入長期的資安策略。在這場演講，我們將透過百場紅隊經驗的觀察，提出企業遇到的困境，反思過去的問題。為此我們也將介紹一個框架化紅隊演練成果的新方法，如同在戰場上畫出格線，幫助企業突破僅能單點式、解決短期問題的窘境，有效發揮紅隊演練的完整效益。進一步更能幫助資安長、資安團隊強化未來資安策略的完整性。
+![image](https://github.com/Chw41/Schedule/assets/141213003/6bc59417-e41b-449a-81fb-d376086ceec0)
+
 ![image](https://github.com/Chw41/Schedule/assets/141213003/2ed8f668-7ac8-4f52-bdeb-7ca6d4a809ac)
 ![image](https://github.com/Chw41/Schedule/assets/141213003/42eb5d14-1d59-45cf-9977-885c2d331a99)
 ![image](https://github.com/Chw41/Schedule/assets/141213003/cf2aa00c-5627-415c-b253-ad98feebd80f)
@@ -464,7 +499,20 @@ DEVCORE 實習生導師 Angelboy 曾經說過一句話：「Pwn2Own IoT 那場�
 ![image](https://github.com/Chw41/Schedule/assets/141213003/76c2f4be-99ae-4ae3-a516-d2ab4d4f31bd)
 ![image](https://github.com/Chw41/Schedule/assets/141213003/0cf51d71-2f30-4450-9622-345741d06cb7)
 ![image](https://github.com/Chw41/Schedule/assets/141213003/eefbaffa-139e-4268-9dec-635c70d3cdae)
-
+```note
+1. 主要講管理面的資安策略
+2. 從滲透到紅隊演練，導致籃隊不斷修弱點，沒有回歸到資安策略。
+3. Allen 執行長的理想紅隊演練:
+    - 模擬組織化攻擊，評估真實風險
+    - 透過演練，檢視資安策略和控制措施
+    - 與企業建立共通語言
+4. 資安架構分層
+5. 惡意郵件的攻擊流程
+6. 根據演練的改善建議，參考NIST 800-53標準，找出紅隊演練可以觸及的控制措施
+7. 紅隊點出問題，籃隊驗證根因
+8. 分享根據Devocore紅隊演練的成果建置框架: Red Team Security Posture Analysis Framework (RSPAF)
+9. 紅隊演練是一個思維，不是一個檢測
+```
 ## 2024/05/16
 
 # 台科資安社- 開箱！紅隊演練專家的職涯經驗
