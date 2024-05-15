@@ -388,6 +388,7 @@ DEVCORE 實習生導師 Angelboy 曾經說過一句話：「Pwn2Own IoT 那場�
 > 尤理衡 (Li-Heng Yu) / Cymetrics Security Engineer
 
 這場演講結合了自身的經驗，以資訊安全競賽作為切入，講述資安相關的教育、專業人才培養及職涯發展。我將分享在比賽中的學習歷程，探討資訊安全競賽如何成為培育下一代安全專業人才的重要途徑。演講將著重於轉化比賽經驗為實際工作技能，強調競賽路途中所學到的技能在資安領域的實用性。通過個人真實的比賽案例，參與者將獲得實用的見解，並能夠更全面地理解資安領域的挑戰與機會。
+> 第一次看到seadog007大佬本人
 ![image](https://github.com/Chw41/Schedule/assets/141213003/09aa5026-addb-4a0b-b038-a12ea8f251c4)
 ![image](https://github.com/Chw41/Schedule/assets/141213003/86739440-7450-4046-befd-33ae0ff458c7)
 ![image](https://github.com/Chw41/Schedule/assets/141213003/2d50f034-71f6-4ffc-979e-16370d6e38f4)
@@ -407,12 +408,48 @@ DEVCORE 實習生導師 Angelboy 曾經說過一句話：「Pwn2Own IoT 那場�
 > Nick Nick / Cymetrics Senior Security Engineer
 
 在 2023 年執行 30+ 客戶，超過 180+ 個滲透測試標的，從中我們發現了不少有趣的案例，包括 AI chatbot jailbreak、超過 20 年古老 CMS 的內網滲透。在 2023 年中我們主要測試的產業別為：金融, 遊戲, 餐飲。我們平均每個測試專案都可以找到至少 1 High, 1 Medium, 1 Low 的安全風險，我們將探討這其中的風險項目與統計解析。在過程中我們嘗試增進專案的執行速度與優化測試流程，希望可以與同業分享與交流。
+![image](https://github.com/Chw41/Schedule/assets/141213003/9f5a79b2-db37-44f7-aa15-e7b9a419bc48)
+> Cymetric 吉祥物?!\
+> 放大一點看
+
+![image](https://github.com/Chw41/Schedule/assets/141213003/da6667fc-969f-41dc-8b75-a81aceb1d39c)
+> 水豚君
+
+![image](https://github.com/Chw41/Schedule/assets/141213003/444c0ba5-3d38-4aa3-922a-b6f832e60fbc)
+![image](https://github.com/Chw41/Schedule/assets/141213003/c8a8dd17-b53d-45f6-8630-c2eb79399123)
+![image](https://github.com/Chw41/Schedule/assets/141213003/665bf444-2269-4fcc-9e61-29c71dd8f92d)
+![image](https://github.com/Chw41/Schedule/assets/141213003/981946ee-5236-4f52-8d22-c67a104a90dd)
+![image](https://github.com/Chw41/Schedule/assets/141213003/d55aec39-353c-4b57-a5b5-cd58b75789df)
+![image](https://github.com/Chw41/Schedule/assets/141213003/30b48078-7fb1-4f0c-b1a2-55b6f21aa54d)
+![image](https://github.com/Chw41/Schedule/assets/141213003/b015147f-17ab-4f6f-9ab6-8833efbeb143)
+![image](https://github.com/Chw41/Schedule/assets/141213003/96c2f0d9-5db9-4c99-adb4-d93eb54061c5)
+![image](https://github.com/Chw41/Schedule/assets/141213003/e71c25dc-ebbc-4fcf-9ad2-9428243d1a4e)
+![image](https://github.com/Chw41/Schedule/assets/141213003/afee0c6f-4d8c-4dc6-b001-0e230d4fbb08)
+![image](https://github.com/Chw41/Schedule/assets/141213003/98219363-a03c-4355-a0a8-90ee748c9a43)
+![image](https://github.com/Chw41/Schedule/assets/141213003/fea60a65-c709-4867-8c21-aaf21a31cbf6)
+![image](https://github.com/Chw41/Schedule/assets/141213003/6afa49ea-eb4e-47f2-aff3-2565e1659c4b)
+![image](https://github.com/Chw41/Schedule/assets/141213003/122b324c-e363-4fe7-bde2-5cc49083431f)
 
 ### 框架化你的紅隊成果！從問題解決到長期資安策略 (Devcore)
 > 翁浩正 / DEVCORE 執行長\
 > 張亭儀 / DEVCORE 商務發展經理
 
 「我的企業真的安全嗎？」一直是企業在紅隊演練後難以回答的問題。企業常僅止於解決短期問題，而難以融入長期的資安策略。在這場演講，我們將透過百場紅隊經驗的觀察，提出企業遇到的困境，反思過去的問題。為此我們也將介紹一個框架化紅隊演練成果的新方法，如同在戰場上畫出格線，幫助企業突破僅能單點式、解決短期問題的窘境，有效發揮紅隊演練的完整效益。進一步更能幫助資安長、資安團隊強化未來資安策略的完整性。
+![image](https://github.com/Chw41/Schedule/assets/141213003/2ed8f668-7ac8-4f52-bdeb-7ca6d4a809ac)
+![image](https://github.com/Chw41/Schedule/assets/141213003/42eb5d14-1d59-45cf-9977-885c2d331a99)
+![image](https://github.com/Chw41/Schedule/assets/141213003/cf2aa00c-5627-415c-b253-ad98feebd80f)
+![image](https://github.com/Chw41/Schedule/assets/141213003/af02620b-2988-4334-961d-6a6f145dee2a)
+![image](https://github.com/Chw41/Schedule/assets/141213003/bef71d41-2552-4495-82a0-cbd2f84d1b1a)
+![image](https://github.com/Chw41/Schedule/assets/141213003/042dac2a-88d9-41cc-90bd-675ae27224aa)
+![image](https://github.com/Chw41/Schedule/assets/141213003/2714d876-ee84-4fd6-b857-881a6c5a849f)
+![image](https://github.com/Chw41/Schedule/assets/141213003/0c26a20c-d90b-424d-a73d-91b6e9985bdb)
+![image](https://github.com/Chw41/Schedule/assets/141213003/32b97de6-6e03-4f5e-94d5-41037181f05e)
+![image](https://github.com/Chw41/Schedule/assets/141213003/688e21d4-a59c-400b-8265-3ccc765e5b51)
+![image](https://github.com/Chw41/Schedule/assets/141213003/a80bd496-b8dc-4db1-88b1-562c61cfcd8f)
+![image](https://github.com/Chw41/Schedule/assets/141213003/8decb668-178c-4e51-a02c-ae4dfbed3c4f)
+![image](https://github.com/Chw41/Schedule/assets/141213003/c3d4b97c-247f-4ccb-994c-c30659b1d358)
+![image](https://github.com/Chw41/Schedule/assets/141213003/c04a68f4-0670-49ae-9a54-dadcbb723a6b)
+
 
 ## 2024/05/16
 
