@@ -343,6 +343,8 @@ DEVCORE 實習生導師 Angelboy 曾經說過一句話：「Pwn2Own IoT 那場�
 報到地點：南港展覽二館 1 樓《Cyber Talent》大會服務台（台北市南港區經貿二路 2 號）\
 交通資訊：https://www.tainex.com.tw/service/transportation/drive \
 大會官網：https://cybersec.ithome.com.tw/2024/
+![image](https://github.com/Chw41/Schedule/assets/141213003/4e9910ff-81da-49b4-8b8a-9adc068e771b)
+
 ## 2024/05/14
 ### 以生成式 AI 輔助對抗進階持續威脅 (台大)
 > 許凱平 / 國立臺灣大學計算機及資訊網路中心 作業管理組 副組長
@@ -386,6 +388,19 @@ DEVCORE 實習生導師 Angelboy 曾經說過一句話：「Pwn2Own IoT 那場�
 > 尤理衡 (Li-Heng Yu) / Cymetrics Security Engineer
 
 這場演講結合了自身的經驗，以資訊安全競賽作為切入，講述資安相關的教育、專業人才培養及職涯發展。我將分享在比賽中的學習歷程，探討資訊安全競賽如何成為培育下一代安全專業人才的重要途徑。演講將著重於轉化比賽經驗為實際工作技能，強調競賽路途中所學到的技能在資安領域的實用性。通過個人真實的比賽案例，參與者將獲得實用的見解，並能夠更全面地理解資安領域的挑戰與機會。
+![image](https://github.com/Chw41/Schedule/assets/141213003/09aa5026-addb-4a0b-b038-a12ea8f251c4)
+![image](https://github.com/Chw41/Schedule/assets/141213003/86739440-7450-4046-befd-33ae0ff458c7)
+![image](https://github.com/Chw41/Schedule/assets/141213003/2d50f034-71f6-4ffc-979e-16370d6e38f4)
+![image](https://github.com/Chw41/Schedule/assets/141213003/0981ba76-5749-435e-912b-1269cfaa4a22)
+![image](https://github.com/Chw41/Schedule/assets/141213003/a49241b9-f502-48bd-a88d-1c4f855d2a89)
+![image](https://github.com/Chw41/Schedule/assets/141213003/b0261896-6fc4-4870-8ff4-e242114b87e0)
+![image](https://github.com/Chw41/Schedule/assets/141213003/d6948580-814a-4187-87c3-486db239a91b)
+![image](https://github.com/Chw41/Schedule/assets/141213003/ccd09d24-504d-4960-bca4-8dad884325cc)
+![image](https://github.com/Chw41/Schedule/assets/141213003/40de3a63-53b3-4953-a87c-b32de95c5a7e)
+![image](https://github.com/Chw41/Schedule/assets/141213003/870e35a9-c46a-47d7-8e23-b3c55f0986c5)
+![image](https://github.com/Chw41/Schedule/assets/141213003/7c8a7c56-35cd-4f63-999a-837a0ad950d0)
+![image](https://github.com/Chw41/Schedule/assets/141213003/3a47987a-d6f5-4d3f-b51d-d8f9a2e20e34)
+![image](https://github.com/Chw41/Schedule/assets/141213003/7b2a305a-dc90-4cf5-a8af-1000b456506e)
 
 ### 30 分鐘看完資安工程師的一年：滲透案例解析與統整 (Cymetrics)
 > Zet / Cymetrics Security Team Leader\
