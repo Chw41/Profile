@@ -538,12 +538,59 @@ DEVCORE 實習生導師 Angelboy 曾經說過一句話：「Pwn2Own IoT 那場�
 > 游照臨 (Steven Meow) / 趨勢科技 Threat Researcher, CoreTech Red Team
 
 在這場議程中，我們將深入探討 Active Directory 和 Azure Active Directory (Entra ID) 的核心差異，揭示 Azure, Entra ID 內所含的資安威脅。我們將以從紅隊角度出發，分析 Entra ID 的潛在風險，並以實例方式展現如何使用特定工具來執行 Enumerate 及 Exploitation, Exfiltration 手法，甚至是 Bypass 2FA 的攻擊方式。此外，我們也會詳述橫向移動的 Hybrid Identity 攻擊手法，包括從本地到雲端，甚至從雲端反打回本地 Active Directory 的技術，例如 Password Hash Sync, Pass-Through Authentication, AD Federation Golden SAML 等。
+![image](https://github.com/Chw41/Schedule/assets/141213003/9941d463-a778-430a-b7dc-2ad5a1bfb104)
+
+![image](https://github.com/Chw41/Schedule/assets/141213003/49a7bd60-0178-470e-9e4b-d60b16163751)
+![image](https://github.com/Chw41/Schedule/assets/141213003/829437a9-745a-4818-aed4-9b932a83c6be)
+![image](https://github.com/Chw41/Schedule/assets/141213003/d533cec6-b320-4d2c-b1ea-234e73ffe558)
+![image](https://github.com/Chw41/Schedule/assets/141213003/dc4550dd-ccea-4828-b085-2a44d3c9bbb4)
+![image](https://github.com/Chw41/Schedule/assets/141213003/29c50bc4-71a2-4fcb-a13e-622cf91fb8a0)
+![image](https://github.com/Chw41/Schedule/assets/141213003/20365b94-79da-4a9a-8481-d35775d24062)
+![image](https://github.com/Chw41/Schedule/assets/141213003/19b55736-64eb-47b8-a9f1-976a1c54f0fd)
+![image](https://github.com/Chw41/Schedule/assets/141213003/c1b68310-f80c-45b2-ad2d-44d42965c3c6)
+![image](https://github.com/Chw41/Schedule/assets/141213003/27559c5a-170f-47b8-ae50-a6dc9d12fa64)
+![image](https://github.com/Chw41/Schedule/assets/141213003/5fca02d1-215b-4ccf-a2a4-c5f44a119cd2)
+![image](https://github.com/Chw41/Schedule/assets/141213003/fe6b41b6-1abe-454e-9543-b3c8816ec3be)
+![image](https://github.com/Chw41/Schedule/assets/141213003/69159e7a-2bc6-4922-b06a-4d31e8171d64)
+![image](https://github.com/Chw41/Schedule/assets/141213003/b7c6829b-0492-4e8a-a713-961118e9929c)
+![image](https://github.com/Chw41/Schedule/assets/141213003/82ab25c0-2425-4bb6-92f5-69d53c3cd6ec)
+![image](https://github.com/Chw41/Schedule/assets/141213003/30b20048-39eb-4f3c-aaa5-240eabd33257)
+![image](https://github.com/Chw41/Schedule/assets/141213003/c15f28db-e563-4fa4-88f5-766b7b1eb7b4)
+![image](https://github.com/Chw41/Schedule/assets/141213003/c2f317d5-58d9-4884-9293-32bfb3f431dc)
+![image](https://github.com/Chw41/Schedule/assets/141213003/96b25004-13c1-45ba-8678-55e87704c6f4)
+![image](https://github.com/Chw41/Schedule/assets/141213003/6ea83a99-8543-49c9-af2b-5d99bd0da9d0)
+![image](https://github.com/Chw41/Schedule/assets/141213003/52a34d0f-78d1-4a91-8bcd-3a0b3fe6ce5c)
+![image](https://github.com/Chw41/Schedule/assets/141213003/4a180989-b640-4b5c-ad5d-7c4198d6b22b)
+![image](https://github.com/Chw41/Schedule/assets/141213003/a866cdc4-669f-41aa-904f-47e9cc1ee4df)
+![image](https://github.com/Chw41/Schedule/assets/141213003/414929a2-7197-4a69-9a99-7c9763934460)
+![image](https://github.com/Chw41/Schedule/assets/141213003/099f7ac4-19eb-4ca1-b0be-c5788077ce2a)
+![image](https://github.com/Chw41/Schedule/assets/141213003/d3cc3b5d-1b7b-40ca-ae34-43dbc8bff0df)
+![image](https://github.com/Chw41/Schedule/assets/141213003/b0767b9d-f90f-4fb7-a1e6-ace6c6344e89)
 
 ### 紅隊演練有三關，你在哪一關？ (Devcore)
 > 鍾澤華 (Aaron) / DEVCORE 商務發展總監\
 > 汪會敏 (Awon) / DEVCORE 資深技術專案經理
 
 台灣的紅隊演練服務在 2017 推出，今年即將邁入第七年。而在過去近 100 場的紅隊演練，我們發現不同資安成熟度的企業其實對於演練的目標跟演練方式有著不同的想法跟期待。我們將在這場演講分享 DEVCORE 定義的紅隊演練三個階段，在不同的階段企業應該用怎樣的思維、期待跟演練方式能夠達到最大的效益。同時，我們也將首次分享不同產業別在這三個階段的相關統計數據，並建議企業未來在執行紅隊演練前應該有的認知。
+![image](https://github.com/Chw41/Schedule/assets/141213003/c76c87a2-4237-48d0-9d9f-4b2c965140bb)
+![image](https://github.com/Chw41/Schedule/assets/141213003/29e68402-0880-4a86-b4e4-808dac9e5469)
+
+![image](https://github.com/Chw41/Schedule/assets/141213003/f8e1c4d8-58e9-4c85-8654-558788fa6805)
+![image](https://github.com/Chw41/Schedule/assets/141213003/ebb2a1f6-aab5-47d5-bc4e-49572ae0d144)
+![image](https://github.com/Chw41/Schedule/assets/141213003/9c472851-13fa-4d0f-b01e-03f70f5223dd)
+![image](https://github.com/Chw41/Schedule/assets/141213003/e458cdc3-e9de-4f1c-a0fe-27e2924046df)
+![image](https://github.com/Chw41/Schedule/assets/141213003/5fbce026-2cc4-40a7-bd20-2a3db33b2c44)
+![image](https://github.com/Chw41/Schedule/assets/141213003/b702b728-07be-4b49-beb9-d15c72358461)
+![image](https://github.com/Chw41/Schedule/assets/141213003/a45ffb93-7be9-4b6d-a2ee-88e79684c555)
+![image](https://github.com/Chw41/Schedule/assets/141213003/18c7a7d6-f5ac-4731-bc41-9121568a6c66)
+![image](https://github.com/Chw41/Schedule/assets/141213003/ad023d4a-3342-403c-b9e0-5d74121d8f95)
+![image](https://github.com/Chw41/Schedule/assets/141213003/1585b420-2992-4e99-9927-d7bc1aa7ce74)
+![image](https://github.com/Chw41/Schedule/assets/141213003/9bd288d3-204e-402e-b4d5-a7f8f323a3d4)
+![image](https://github.com/Chw41/Schedule/assets/141213003/1c172993-e45f-4238-9d64-8d804e782db8)
+![image](https://github.com/Chw41/Schedule/assets/141213003/989bf6f9-ee91-476f-9fce-94c0e0e4b594)
+![image](https://github.com/Chw41/Schedule/assets/141213003/b60c15cf-91bb-42a9-a115-142d22059fb8)
+![image](https://github.com/Chw41/Schedule/assets/141213003/d51878b7-5e4c-4c3c-88fd-6312fcbd3966)
+![image](https://github.com/Chw41/Schedule/assets/141213003/c6a635cc-48e7-4189-8419-a281126489d9)
 
 # 台科資安社- 開箱！紅隊演練專家的職涯經驗
 ## 2024/05/16
@@ -560,6 +607,12 @@ DEVCORE 實習生導師 Angelboy 曾經說過一句話：「Pwn2Own IoT 那場�
 🎤 講師資訊：
 - 資深紅隊演練專家
 - 國際技能競賽 網路安全職種 世界銀牌
+
+![image](https://github.com/Chw41/Schedule/assets/141213003/919ef667-635e-4411-aabe-641c4a8444f7)
+![image](https://github.com/Chw41/Schedule/assets/141213003/c5e75323-4e47-40b2-b2bf-7ee232cb0c53)
+![image](https://github.com/Chw41/Schedule/assets/141213003/2b4b7944-5eca-4c3f-9a75-d76cbbedf919)
+![image](https://github.com/Chw41/Schedule/assets/141213003/0c13e9df-da9d-452d-b106-6f21892b375a)
+![image](https://github.com/Chw41/Schedule/assets/141213003/d7d267cf-818a-41d9-bfda-0619f1578a90)
 
 # AIS3 Pre-exam CTF 2024
 ## 初賽: 2024/05/25-27
