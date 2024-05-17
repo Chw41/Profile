@@ -515,6 +515,35 @@ DEVCORE 實習生導師 Angelboy 曾經說過一句話：「Pwn2Own IoT 那場�
 9. 紅隊演練是一個思維，不是一個檢測
 ```
 ## 2024/05/16
+### 富邦資安反詐策略與行動方案 (富邦)
+> 蘇清偉 (Frank Su) / 富邦金控 資安長
+
+金融科技對民眾帶來更多的生活便利，卻也造成新興詐騙手法層出不窮，導致詐騙案件頻傳，面對此現象，富邦金控在 2023年4月起宣布啟動金控暨子公司偽冒案件應變團隊，積極應對各型態案件，展現打擊詐欺犯罪的強力態度與決心，統計 2023年6~12月已主動執行 223件偽冒案件之檢舉下架作業 (包含釣魚網站、偽冒APP、社群平台、通訊軟體等偽冒案件)，以保護客戶資訊及財產安全，進而帶動社會的正向循環。
+![image](https://github.com/Chw41/Schedule/assets/141213003/4de66193-5887-4184-a724-0019cc159740)
+
+![image](https://github.com/Chw41/Schedule/assets/141213003/0aaf3c38-f458-4b15-aca2-7f9ee745ec89)
+![image](https://github.com/Chw41/Schedule/assets/141213003/07fd3673-2f37-4c78-b0bc-9c54bf0e8114)
+![image](https://github.com/Chw41/Schedule/assets/141213003/00ae31a2-c891-411e-bcf7-d9b0cb1d992e)
+![image](https://github.com/Chw41/Schedule/assets/141213003/05511395-4d02-4e18-a7f6-d52805b44f8f)
+![image](https://github.com/Chw41/Schedule/assets/141213003/b8eb605a-ecb3-4a19-9926-83da10cebdc4)
+![image](https://github.com/Chw41/Schedule/assets/141213003/2beeb4e8-8223-402f-a302-0099f09bc896)
+![image](https://github.com/Chw41/Schedule/assets/141213003/13e263fa-a70d-4b8d-a1e0-74fbf1a8ef0c)
+![image](https://github.com/Chw41/Schedule/assets/141213003/35a426d8-b3d7-4718-a8dd-a37264c28d04)
+![image](https://github.com/Chw41/Schedule/assets/141213003/e477f391-115b-473e-9f74-8b7073237859)
+![image](https://github.com/Chw41/Schedule/assets/141213003/d7d4595f-48ea-4ee2-afec-c9cd200f1889)
+![image](https://github.com/Chw41/Schedule/assets/141213003/564ccfdb-dbd5-4c7e-9af1-92f099942abc)
+![image](https://github.com/Chw41/Schedule/assets/141213003/58346f9d-6a85-40d7-b3cd-a733252781e9)
+
+### AD 已經防不完了，怎麼還有個 Azure AD？ (趨勢科技)
+> 游照臨 (Steven Meow) / 趨勢科技 Threat Researcher, CoreTech Red Team
+
+在這場議程中，我們將深入探討 Active Directory 和 Azure Active Directory (Entra ID) 的核心差異，揭示 Azure, Entra ID 內所含的資安威脅。我們將以從紅隊角度出發，分析 Entra ID 的潛在風險，並以實例方式展現如何使用特定工具來執行 Enumerate 及 Exploitation, Exfiltration 手法，甚至是 Bypass 2FA 的攻擊方式。此外，我們也會詳述橫向移動的 Hybrid Identity 攻擊手法，包括從本地到雲端，甚至從雲端反打回本地 Active Directory 的技術，例如 Password Hash Sync, Pass-Through Authentication, AD Federation Golden SAML 等。
+
+### 紅隊演練有三關，你在哪一關？ (Devcore)
+> 鍾澤華 (Aaron) / DEVCORE 商務發展總監\
+> 汪會敏 (Awon) / DEVCORE 資深技術專案經理
+
+台灣的紅隊演練服務在 2017 推出，今年即將邁入第七年。而在過去近 100 場的紅隊演練，我們發現不同資安成熟度的企業其實對於演練的目標跟演練方式有著不同的想法跟期待。我們將在這場演講分享 DEVCORE 定義的紅隊演練三個階段，在不同的階段企業應該用怎樣的思維、期待跟演練方式能夠達到最大的效益。同時，我們也將首次分享不同產業別在這三個階段的相關統計數據，並建議企業未來在執行紅隊演練前應該有的認知。
 
 # 台科資安社- 開箱！紅隊演練專家的職涯經驗
 ## 2024/05/16
