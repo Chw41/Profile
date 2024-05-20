@@ -533,7 +533,18 @@ DEVCORE 實習生導師 Angelboy 曾經說過一句話：「Pwn2Own IoT 那場�
 ![image](https://github.com/Chw41/Schedule/assets/141213003/d7d4595f-48ea-4ee2-afec-c9cd200f1889)
 ![image](https://github.com/Chw41/Schedule/assets/141213003/564ccfdb-dbd5-4c7e-9af1-92f099942abc)
 ![image](https://github.com/Chw41/Schedule/assets/141213003/58346f9d-6a85-40d7-b3cd-a733252781e9)
-
+```note
+1. 富邦對於詐騙案件的應對措施
+2. 建立處理準則、運作機制、應變團隊、自動化工具
+3. 偽冒樣態
+    - 釣魚、APP偽冒
+    - 媒體偽冒
+    - 通訊軟體偽冒
+    - 其他
+4. 根據影響程度與業務關聯，建立風險評估機制
+5. 根據偽冒樣態累積2023下半年通報事件分析
+6. 偽冒樣態累積財損分析
+```
 ### AD 已經防不完了，怎麼還有個 Azure AD？ (趨勢科技)
 > 游照臨 (Steven Meow) / 趨勢科技 Threat Researcher, CoreTech Red Team
 
@@ -566,7 +577,25 @@ DEVCORE 實習生導師 Angelboy 曾經說過一句話：「Pwn2Own IoT 那場�
 ![image](https://github.com/Chw41/Schedule/assets/141213003/099f7ac4-19eb-4ca1-b0be-c5788077ce2a)
 ![image](https://github.com/Chw41/Schedule/assets/141213003/d3cc3b5d-1b7b-40ca-ae34-43dbc8bff0df)
 ![image](https://github.com/Chw41/Schedule/assets/141213003/b0767b9d-f90f-4fb7-a1e6-ace6c6344e89)
-
+```note
+1. Azure AD 常用工具
+    - Azure AD PowerShell
+    - Azure Powershell
+    - Az Cli
+    ◆ AAD Internals
+    ◆ MicroBrust
+2. 密碼爆破
+    - MSOL Spray (Wordlist)
+    - Evasion
+3. Authenticated Enumeration
+    - Connect Azure、Connect-AzAccount、az login
+4. Enumeration & Tools
+    - ROAD 、Storm Spotter、Azure Hound
+5. 釣魚攻擊: O365 Stealer
+6. 2FA 還是有機會可以繞
+7. 可利用AD-AAD Connect 作為 Domain Persistent
+8. 還不熟AD，一臉矇
+```
 ### 紅隊演練有三關，你在哪一關？ (Devcore)
 > 鍾澤華 (Aaron) / DEVCORE 商務發展總監\
 > 汪會敏 (Awon) / DEVCORE 資深技術專案經理
@@ -591,7 +620,20 @@ DEVCORE 實習生導師 Angelboy 曾經說過一句話：「Pwn2Own IoT 那場�
 ![image](https://github.com/Chw41/Schedule/assets/141213003/b60c15cf-91bb-42a9-a115-142d22059fb8)
 ![image](https://github.com/Chw41/Schedule/assets/141213003/d51878b7-5e4c-4c3c-88fd-6312fcbd3966)
 ![image](https://github.com/Chw41/Schedule/assets/141213003/c6a635cc-48e7-4189-8419-a281126489d9)
-
+```note
+1. 對於紅隊演練時間、演練模式、演練範圍、演練目標分類
+2. 金融/政府 詢問&採用紅隊演練比例最高
+3. EASY MODE
+    - 無法確定外網安全性、不確定內、外網間的風險、優先尋找內外網重大風險
+4. NORMAL MODE
+    - 更多元演練情境與手法、外部網路具備一定防禦能力、內部網路具備一定隔離能力
+5. HARD MODE
+    - 不建護以此模式開始、7x24趨近真實的演練模式
+6. NIGHT MARE
+    - Good Luck !完全真實的演練、不限時間規避防禦措施、使用野生1Day、演練中不提供日誌
+7. 多樣化演練模式
+8. 重新擬定演練方式：內網透過 VPN、OA筆電、OA公務機
+```
 # 台科資安社- 開箱！紅隊演練專家的職涯經驗
 ## 2024/05/16
 想要一探資安專家的工作日常並深入了解他們如何在國際舞台上大放異彩嗎？那你絕不能錯過這次的社課，我們有幸邀請到資深紅隊演練專家高敏睿 Mico 親自分享他的豐富經驗！
