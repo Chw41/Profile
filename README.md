@@ -685,6 +685,11 @@ DEVCORE 實習生導師 Angelboy 曾經說過一句話：「Pwn2Own IoT 那場�
 國立臺灣科技大學資訊工程系、國立臺灣科技大學資訊管理系\
 國立陽明交通大學資訊工程學系、國立臺灣大學資訊工程學系\
 國立中正大學資訊工程學系、國立臺北科技大學資訊工程系
+
+### ● [AIS3 Pre-exam CTF 2024 writeup](https://hackmd.io/@CHW/Skj3dx1E0)
+
+![image](https://hackmd.io/_uploads/Sk4v_6bNA.png)
+
 ### 課程時間: 2014/07/29- 08/04
 
 
