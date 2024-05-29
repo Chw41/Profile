@@ -688,6 +688,7 @@ DEVCORE 實習生導師 Angelboy 曾經說過一句話：「Pwn2Own IoT 那場�
 
 ### ● [AIS3 Pre-exam CTF 2024 writeup](https://hackmd.io/@CHW/Skj3dx1E0)
 
+![image](https://hackmd.io/_uploads/BkvxOaVNC.png)
 ![image](https://hackmd.io/_uploads/Sk4v_6bNA.png)
 
 ### 課程時間: 2014/07/29- 08/04
