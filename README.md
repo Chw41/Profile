@@ -361,17 +361,9 @@ DEVCORE 實習生導師 Angelboy 曾經說過一句話：「Pwn2Own IoT 那場�
 ### 台灣語言模型於資安的應用：適用性與性能全方位探討 (奧義)
 > 陳樞元 (Coco chen) / 奧義智慧科技 Data Scientist
 
+[簡報連結](https://ccms.ithome.com.tw/api/slideapi/1491/click?l=https%3A%2F%2Fs.itho.me%2Fccms_slides%2F2024%2F5%2F24%2Fea47005b-d129-4b9b-8361-422d18a8e38c.pdf)\
 本議程將從多個面向 ( e.g., 無害性和本土化 ) 評估不同模型於台灣資安領域應用的能力，分析 TAIDE、Taiwan LLM 和奧義智慧研發的 LLM-CyCraftGPT 等不同模型的表現，了解它們在應對各種問題時的適用性 ，幫助聽眾在未來能更快速選擇適合的模型。
-![image](https://github.com/Chw41/Schedule/assets/141213003/83e40abd-ae8b-4b0f-b041-39f2e2c1924f)
-![image](https://github.com/Chw41/Schedule/assets/141213003/81ace541-0f7d-4ba5-8fee-cd51f8a9a2c2)
-![image](https://github.com/Chw41/Schedule/assets/141213003/79392d60-405f-468d-b68b-2a7fb822236c)
-![image](https://github.com/Chw41/Schedule/assets/141213003/88ae3d8e-a82d-4b10-b2f5-240b9d9c32ce)
-![image](https://github.com/Chw41/Schedule/assets/141213003/66c441d4-3a97-4201-8085-7b17da427e61)
-![image](https://github.com/Chw41/Schedule/assets/141213003/217647dd-f2d7-40b7-867d-cfef467c10ff)
-![image](https://github.com/Chw41/Schedule/assets/141213003/970ff88b-2996-4713-aea9-0833db5673d3)
-![image](https://github.com/Chw41/Schedule/assets/141213003/26ea1407-8273-4867-b32c-21a72e48d658)
-![image](https://github.com/Chw41/Schedule/assets/141213003/59aed9a6-9a6d-4da2-bee4-e2064fb49f08)
-![image](https://github.com/Chw41/Schedule/assets/141213003/d745ecb4-dad5-4dbe-b6e4-e039c1678295)
+
 ```note
 1. LLM 繁體中文在整體的占比
 2. 介紹專用繁體中文的本土化LLM (繁體中文 & 不含中國用語):
@@ -383,15 +375,10 @@ DEVCORE 實習生導師 Angelboy 曾經說過一句話：「Pwn2Own IoT 那場�
 ### LLM 對抗性攻擊 - 網絡安全專家不應忽視的威脅 (OneDegree)
 > 周彥儒 (Stanley Chou) / OneDegree 資安長
 
+[簡報連結](https://ccms.ithome.com.tw/api/slideapi/1361/click?l=https%3A%2F%2Fs.itho.me%2Fccms_slides%2F2024%2F5%2F22%2F46bc1f92-19ca-4ef5-ad08-87d1833cecce.pdf)\
 在此演講中，講者將闡明如何通過對抗性攻擊來誤導大語言模型（LLM）。講者將涵蓋常見的 LLM 應用案例，重點說明技術所產生的新興威脅，深入探討 LLM 對抗性攻擊後，通過實際案例來說明可能之負面影響。演講將介紹 LLM 安全與合規測試的概念，強調此類測試在評估和增強 LLM 安全性以提高可信任 AI 方面的關鍵作用。最終，此演講旨在提高觀眾對於 LLM 技術風險的理解，並鼓勵採取積極策略以防範此類對抗性威脅。
 ![image](https://github.com/Chw41/Schedule/assets/141213003/fdadd4c8-ee1f-43f2-9fa4-66273d83ecb7)
-![image](https://github.com/Chw41/Schedule/assets/141213003/efd81073-03c5-4106-b654-d79399c5e5ad)
-![image](https://github.com/Chw41/Schedule/assets/141213003/c0a4e275-2046-47d3-8f6d-5092eba2ab2a)
-![image](https://github.com/Chw41/Schedule/assets/141213003/fbe92545-03a5-4847-9bc9-a8e787ebbd44)
-![image](https://github.com/Chw41/Schedule/assets/141213003/53bedf38-3f59-421e-9093-04c29a820641)
-![image](https://github.com/Chw41/Schedule/assets/141213003/53825cdb-2047-4293-b5eb-814c6c64600d)
-![image](https://github.com/Chw41/Schedule/assets/141213003/3b7ebb8b-d2b2-4582-8521-219986c73295)
-![image](https://github.com/Chw41/Schedule/assets/141213003/816d6ed4-93bd-4410-b2d8-04f93d370bd6)
+
 ```note
 1. 介紹企業中的LLM
 2. 生成式AI的弱點與攻擊類型，對比傳統的攻擊手法
@@ -405,22 +392,10 @@ DEVCORE 實習生導師 Angelboy 曾經說過一句話：「Pwn2Own IoT 那場�
 ### 資安比賽的冒險之旅：培養專業人才、職涯發展的跳板 (Cymetrics)
 > 尤理衡 (Li-Heng Yu) / Cymetrics Security Engineer
 
+[簡報連結](https://ccms.ithome.com.tw/api/slideapi/1474/click?l=https%3A%2F%2Fs.itho.me%2Fccms_slides%2F2024%2F5%2F23%2F15fef11b-bcbe-42e5-9241-b199b3bccbac.pdf)\
 這場演講結合了自身的經驗，以資訊安全競賽作為切入，講述資安相關的教育、專業人才培養及職涯發展。我將分享在比賽中的學習歷程，探討資訊安全競賽如何成為培育下一代安全專業人才的重要途徑。演講將著重於轉化比賽經驗為實際工作技能，強調競賽路途中所學到的技能在資安領域的實用性。通過個人真實的比賽案例，參與者將獲得實用的見解，並能夠更全面地理解資安領域的挑戰與機會。
 > 第一次看到seadog007大佬本人，~~紛絲見面會~~
 
-![image](https://github.com/Chw41/Schedule/assets/141213003/09aa5026-addb-4a0b-b038-a12ea8f251c4)
-![image](https://github.com/Chw41/Schedule/assets/141213003/86739440-7450-4046-befd-33ae0ff458c7)
-![image](https://github.com/Chw41/Schedule/assets/141213003/2d50f034-71f6-4ffc-979e-16370d6e38f4)
-![image](https://github.com/Chw41/Schedule/assets/141213003/0981ba76-5749-435e-912b-1269cfaa4a22)
-![image](https://github.com/Chw41/Schedule/assets/141213003/a49241b9-f502-48bd-a88d-1c4f855d2a89)
-![image](https://github.com/Chw41/Schedule/assets/141213003/b0261896-6fc4-4870-8ff4-e242114b87e0)
-![image](https://github.com/Chw41/Schedule/assets/141213003/d6948580-814a-4187-87c3-486db239a91b)
-![image](https://github.com/Chw41/Schedule/assets/141213003/ccd09d24-504d-4960-bca4-8dad884325cc)
-![image](https://github.com/Chw41/Schedule/assets/141213003/40de3a63-53b3-4953-a87c-b32de95c5a7e)
-![image](https://github.com/Chw41/Schedule/assets/141213003/870e35a9-c46a-47d7-8e23-b3c55f0986c5)
-![image](https://github.com/Chw41/Schedule/assets/141213003/7c8a7c56-35cd-4f63-999a-837a0ad950d0)
-![image](https://github.com/Chw41/Schedule/assets/141213003/3a47987a-d6f5-4d3f-b51d-d8f9a2e20e34)
-![image](https://github.com/Chw41/Schedule/assets/141213003/7b2a305a-dc90-4cf5-a8af-1000b456506e)
 ```note
 1. seadog007國內外比賽經歷
 2. 比賽性質: 紅隊 & 籃隊
@@ -431,28 +406,11 @@ DEVCORE 實習生導師 Angelboy 曾經說過一句話：「Pwn2Own IoT 那場�
 > Zet / Cymetrics Security Team Leader\
 > Nick Nick / Cymetrics Senior Security Engineer
 
+[簡報連結](https://ccms.ithome.com.tw/api/slideapi/1473/click?l=https%3A%2F%2Fs.itho.me%2Fccms_slides%2F2024%2F5%2F23%2F81a182ef-75cb-42b0-b81a-98663508a262.pdf)\
 在 2023 年執行 30+ 客戶，超過 180+ 個滲透測試標的，從中我們發現了不少有趣的案例，包括 AI chatbot jailbreak、超過 20 年古老 CMS 的內網滲透。在 2023 年中我們主要測試的產業別為：金融, 遊戲, 餐飲。我們平均每個測試專案都可以找到至少 1 High, 1 Medium, 1 Low 的安全風險，我們將探討這其中的風險項目與統計解析。在過程中我們嘗試增進專案的執行速度與優化測試流程，希望可以與同業分享與交流。
-![image](https://github.com/Chw41/Schedule/assets/141213003/9f5a79b2-db37-44f7-aa15-e7b9a419bc48)
-> Cymetric 吉祥物?!\
-> 放大一點看
-
 ![image](https://github.com/Chw41/Schedule/assets/141213003/da6667fc-969f-41dc-8b75-a81aceb1d39c)
 > 水豚君
 
-![image](https://github.com/Chw41/Schedule/assets/141213003/444c0ba5-3d38-4aa3-922a-b6f832e60fbc)
-![image](https://github.com/Chw41/Schedule/assets/141213003/c8a8dd17-b53d-45f6-8630-c2eb79399123)
-![image](https://github.com/Chw41/Schedule/assets/141213003/665bf444-2269-4fcc-9e61-29c71dd8f92d)
-![image](https://github.com/Chw41/Schedule/assets/141213003/981946ee-5236-4f52-8d22-c67a104a90dd)
-![image](https://github.com/Chw41/Schedule/assets/141213003/d55aec39-353c-4b57-a5b5-cd58b75789df)
-![image](https://github.com/Chw41/Schedule/assets/141213003/30b48078-7fb1-4f0c-b1a2-55b6f21aa54d)
-![image](https://github.com/Chw41/Schedule/assets/141213003/b015147f-17ab-4f6f-9ab6-8833efbeb143)
-![image](https://github.com/Chw41/Schedule/assets/141213003/96c2f0d9-5db9-4c99-adb4-d93eb54061c5)
-![image](https://github.com/Chw41/Schedule/assets/141213003/e71c25dc-ebbc-4fcf-9ad2-9428243d1a4e)
-![image](https://github.com/Chw41/Schedule/assets/141213003/afee0c6f-4d8c-4dc6-b001-0e230d4fbb08)
-![image](https://github.com/Chw41/Schedule/assets/141213003/98219363-a03c-4355-a0a8-90ee748c9a43)
-![image](https://github.com/Chw41/Schedule/assets/141213003/fea60a65-c709-4867-8c21-aaf21a31cbf6)
-![image](https://github.com/Chw41/Schedule/assets/141213003/6afa49ea-eb4e-47f2-aff3-2565e1659c4b)
-![image](https://github.com/Chw41/Schedule/assets/141213003/122b324c-e363-4fe7-bde2-5cc49083431f)
 ```note
 1. 滲透工程師工作內容
 2. 團隊介紹與滲透服務介紹
@@ -468,38 +426,10 @@ DEVCORE 實習生導師 Angelboy 曾經說過一句話：「Pwn2Own IoT 那場�
 > 翁浩正 / DEVCORE 執行長\
 > 張亭儀 / DEVCORE 商務發展經理
 
+[簡報連結](https://ccms.ithome.com.tw/api/slideapi/1383/click?l=https%3A%2F%2Fs.itho.me%2Fccms_slides%2F2024%2F5%2F22%2F5f74d5ba-21d4-4792-9502-9ef829b7d513.pdf)\
 「我的企業真的安全嗎？」一直是企業在紅隊演練後難以回答的問題。企業常僅止於解決短期問題，而難以融入長期的資安策略。在這場演講，我們將透過百場紅隊經驗的觀察，提出企業遇到的困境，反思過去的問題。為此我們也將介紹一個框架化紅隊演練成果的新方法，如同在戰場上畫出格線，幫助企業突破僅能單點式、解決短期問題的窘境，有效發揮紅隊演練的完整效益。進一步更能幫助資安長、資安團隊強化未來資安策略的完整性。
 ![image](https://github.com/Chw41/Schedule/assets/141213003/6bc59417-e41b-449a-81fb-d376086ceec0)
 
-![image](https://github.com/Chw41/Schedule/assets/141213003/2ed8f668-7ac8-4f52-bdeb-7ca6d4a809ac)
-![image](https://github.com/Chw41/Schedule/assets/141213003/42eb5d14-1d59-45cf-9977-885c2d331a99)
-![image](https://github.com/Chw41/Schedule/assets/141213003/cf2aa00c-5627-415c-b253-ad98feebd80f)
-![image](https://github.com/Chw41/Schedule/assets/141213003/af02620b-2988-4334-961d-6a6f145dee2a)
-![image](https://github.com/Chw41/Schedule/assets/141213003/bef71d41-2552-4495-82a0-cbd2f84d1b1a)
-![image](https://github.com/Chw41/Schedule/assets/141213003/042dac2a-88d9-41cc-90bd-675ae27224aa)
-![image](https://github.com/Chw41/Schedule/assets/141213003/2714d876-ee84-4fd6-b857-881a6c5a849f)
-![image](https://github.com/Chw41/Schedule/assets/141213003/0c26a20c-d90b-424d-a73d-91b6e9985bdb)
-![image](https://github.com/Chw41/Schedule/assets/141213003/32b97de6-6e03-4f5e-94d5-41037181f05e)
-![image](https://github.com/Chw41/Schedule/assets/141213003/688e21d4-a59c-400b-8265-3ccc765e5b51)
-![image](https://github.com/Chw41/Schedule/assets/141213003/a80bd496-b8dc-4db1-88b1-562c61cfcd8f)
-![image](https://github.com/Chw41/Schedule/assets/141213003/8decb668-178c-4e51-a02c-ae4dfbed3c4f)
-![image](https://github.com/Chw41/Schedule/assets/141213003/c3d4b97c-247f-4ccb-994c-c30659b1d358)
-![image](https://github.com/Chw41/Schedule/assets/141213003/c04a68f4-0670-49ae-9a54-dadcbb723a6b)
-![image](https://github.com/Chw41/Schedule/assets/141213003/bb78bb56-8054-4bdc-9e7e-4cd66abb3e66)
-![image](https://github.com/Chw41/Schedule/assets/141213003/ff059564-19ec-4531-9bb6-7a90d29b84a3)
-![image](https://github.com/Chw41/Schedule/assets/141213003/0f9345de-4d17-435c-83f8-f6e67fc176fd)
-![image](https://github.com/Chw41/Schedule/assets/141213003/eb103aa0-1b03-4790-aeb5-58f688bffca1)
-![image](https://github.com/Chw41/Schedule/assets/141213003/66df537e-8f9a-4545-bec9-77be5a1256fc)
-![image](https://github.com/Chw41/Schedule/assets/141213003/ef402454-de0e-401d-b50c-6af885734bb4)
-![image](https://github.com/Chw41/Schedule/assets/141213003/8a8a4402-fe91-4545-8509-83f65fbea244)
-![image](https://github.com/Chw41/Schedule/assets/141213003/c8e8a8a4-7f43-40eb-9c1b-84df5de5a627)
-![image](https://github.com/Chw41/Schedule/assets/141213003/ba58555b-7833-4de3-899c-2adfe08327cd)
-![image](https://github.com/Chw41/Schedule/assets/141213003/489f5faf-692c-4051-95a5-3c30b0f0e9ef)
-![image](https://github.com/Chw41/Schedule/assets/141213003/0b3ab6aa-ced9-47fe-9fe5-f762939f1c8d)
-![image](https://github.com/Chw41/Schedule/assets/141213003/7b6aee88-49d7-4364-87a4-b41545df0b5e)
-![image](https://github.com/Chw41/Schedule/assets/141213003/76c2f4be-99ae-4ae3-a516-d2ab4d4f31bd)
-![image](https://github.com/Chw41/Schedule/assets/141213003/0cf51d71-2f30-4450-9622-345741d06cb7)
-![image](https://github.com/Chw41/Schedule/assets/141213003/eefbaffa-139e-4268-9dec-635c70d3cdae)
 ```note
 1. 主要講管理面的資安策略
 2. 從滲透到紅隊演練，導致籃隊不斷修弱點，沒有回歸到資安策略。
@@ -521,18 +451,6 @@ DEVCORE 實習生導師 Angelboy 曾經說過一句話：「Pwn2Own IoT 那場�
 金融科技對民眾帶來更多的生活便利，卻也造成新興詐騙手法層出不窮，導致詐騙案件頻傳，面對此現象，富邦金控在 2023年4月起宣布啟動金控暨子公司偽冒案件應變團隊，積極應對各型態案件，展現打擊詐欺犯罪的強力態度與決心，統計 2023年6~12月已主動執行 223件偽冒案件之檢舉下架作業 (包含釣魚網站、偽冒APP、社群平台、通訊軟體等偽冒案件)，以保護客戶資訊及財產安全，進而帶動社會的正向循環。
 ![image](https://github.com/Chw41/Schedule/assets/141213003/4de66193-5887-4184-a724-0019cc159740)
 
-![image](https://github.com/Chw41/Schedule/assets/141213003/0aaf3c38-f458-4b15-aca2-7f9ee745ec89)
-![image](https://github.com/Chw41/Schedule/assets/141213003/07fd3673-2f37-4c78-b0bc-9c54bf0e8114)
-![image](https://github.com/Chw41/Schedule/assets/141213003/00ae31a2-c891-411e-bcf7-d9b0cb1d992e)
-![image](https://github.com/Chw41/Schedule/assets/141213003/05511395-4d02-4e18-a7f6-d52805b44f8f)
-![image](https://github.com/Chw41/Schedule/assets/141213003/b8eb605a-ecb3-4a19-9926-83da10cebdc4)
-![image](https://github.com/Chw41/Schedule/assets/141213003/2beeb4e8-8223-402f-a302-0099f09bc896)
-![image](https://github.com/Chw41/Schedule/assets/141213003/13e263fa-a70d-4b8d-a1e0-74fbf1a8ef0c)
-![image](https://github.com/Chw41/Schedule/assets/141213003/35a426d8-b3d7-4718-a8dd-a37264c28d04)
-![image](https://github.com/Chw41/Schedule/assets/141213003/e477f391-115b-473e-9f74-8b7073237859)
-![image](https://github.com/Chw41/Schedule/assets/141213003/d7d4595f-48ea-4ee2-afec-c9cd200f1889)
-![image](https://github.com/Chw41/Schedule/assets/141213003/564ccfdb-dbd5-4c7e-9af1-92f099942abc)
-![image](https://github.com/Chw41/Schedule/assets/141213003/58346f9d-6a85-40d7-b3cd-a733252781e9)
 ```note
 1. 富邦對於詐騙案件的應對措施
 2. 建立處理準則、運作機制、應變團隊、自動化工具
@@ -548,35 +466,10 @@ DEVCORE 實習生導師 Angelboy 曾經說過一句話：「Pwn2Own IoT 那場�
 ### AD 已經防不完了，怎麼還有個 Azure AD？ (趨勢科技)
 > 游照臨 (Steven Meow) / 趨勢科技 Threat Researcher, CoreTech Red Team
 
+[簡報連結](https://ccms.ithome.com.tw/api/slideapi/1411/click?l=https%3A%2F%2Fs.itho.me%2Fccms_slides%2F2024%2F5%2F22%2F48fe6ca0-ed59-4a1d-a631-874038ed512b.pdf)\
 在這場議程中，我們將深入探討 Active Directory 和 Azure Active Directory (Entra ID) 的核心差異，揭示 Azure, Entra ID 內所含的資安威脅。我們將以從紅隊角度出發，分析 Entra ID 的潛在風險，並以實例方式展現如何使用特定工具來執行 Enumerate 及 Exploitation, Exfiltration 手法，甚至是 Bypass 2FA 的攻擊方式。此外，我們也會詳述橫向移動的 Hybrid Identity 攻擊手法，包括從本地到雲端，甚至從雲端反打回本地 Active Directory 的技術，例如 Password Hash Sync, Pass-Through Authentication, AD Federation Golden SAML 等。
 ![image](https://github.com/Chw41/Schedule/assets/141213003/9941d463-a778-430a-b7dc-2ad5a1bfb104)
 
-![image](https://github.com/Chw41/Schedule/assets/141213003/49a7bd60-0178-470e-9e4b-d60b16163751)
-![image](https://github.com/Chw41/Schedule/assets/141213003/829437a9-745a-4818-aed4-9b932a83c6be)
-![image](https://github.com/Chw41/Schedule/assets/141213003/d533cec6-b320-4d2c-b1ea-234e73ffe558)
-![image](https://github.com/Chw41/Schedule/assets/141213003/dc4550dd-ccea-4828-b085-2a44d3c9bbb4)
-![image](https://github.com/Chw41/Schedule/assets/141213003/29c50bc4-71a2-4fcb-a13e-622cf91fb8a0)
-![image](https://github.com/Chw41/Schedule/assets/141213003/20365b94-79da-4a9a-8481-d35775d24062)
-![image](https://github.com/Chw41/Schedule/assets/141213003/19b55736-64eb-47b8-a9f1-976a1c54f0fd)
-![image](https://github.com/Chw41/Schedule/assets/141213003/c1b68310-f80c-45b2-ad2d-44d42965c3c6)
-![image](https://github.com/Chw41/Schedule/assets/141213003/27559c5a-170f-47b8-ae50-a6dc9d12fa64)
-![image](https://github.com/Chw41/Schedule/assets/141213003/5fca02d1-215b-4ccf-a2a4-c5f44a119cd2)
-![image](https://github.com/Chw41/Schedule/assets/141213003/fe6b41b6-1abe-454e-9543-b3c8816ec3be)
-![image](https://github.com/Chw41/Schedule/assets/141213003/69159e7a-2bc6-4922-b06a-4d31e8171d64)
-![image](https://github.com/Chw41/Schedule/assets/141213003/b7c6829b-0492-4e8a-a713-961118e9929c)
-![image](https://github.com/Chw41/Schedule/assets/141213003/82ab25c0-2425-4bb6-92f5-69d53c3cd6ec)
-![image](https://github.com/Chw41/Schedule/assets/141213003/30b20048-39eb-4f3c-aaa5-240eabd33257)
-![image](https://github.com/Chw41/Schedule/assets/141213003/c15f28db-e563-4fa4-88f5-766b7b1eb7b4)
-![image](https://github.com/Chw41/Schedule/assets/141213003/c2f317d5-58d9-4884-9293-32bfb3f431dc)
-![image](https://github.com/Chw41/Schedule/assets/141213003/96b25004-13c1-45ba-8678-55e87704c6f4)
-![image](https://github.com/Chw41/Schedule/assets/141213003/6ea83a99-8543-49c9-af2b-5d99bd0da9d0)
-![image](https://github.com/Chw41/Schedule/assets/141213003/52a34d0f-78d1-4a91-8bcd-3a0b3fe6ce5c)
-![image](https://github.com/Chw41/Schedule/assets/141213003/4a180989-b640-4b5c-ad5d-7c4198d6b22b)
-![image](https://github.com/Chw41/Schedule/assets/141213003/a866cdc4-669f-41aa-904f-47e9cc1ee4df)
-![image](https://github.com/Chw41/Schedule/assets/141213003/414929a2-7197-4a69-9a99-7c9763934460)
-![image](https://github.com/Chw41/Schedule/assets/141213003/099f7ac4-19eb-4ca1-b0be-c5788077ce2a)
-![image](https://github.com/Chw41/Schedule/assets/141213003/d3cc3b5d-1b7b-40ca-ae34-43dbc8bff0df)
-![image](https://github.com/Chw41/Schedule/assets/141213003/b0767b9d-f90f-4fb7-a1e6-ace6c6344e89)
 ```note
 1. Azure AD 常用工具
     - Azure AD PowerShell
@@ -600,26 +493,9 @@ DEVCORE 實習生導師 Angelboy 曾經說過一句話：「Pwn2Own IoT 那場�
 > 鍾澤華 (Aaron) / DEVCORE 商務發展總監\
 > 汪會敏 (Awon) / DEVCORE 資深技術專案經理
 
+[簡報連結](https://ccms.ithome.com.tw/api/slideapi/1412/click?l=https%3A%2F%2Fs.itho.me%2Fccms_slides%2F2024%2F5%2F22%2Fe515aabb-2fc9-4814-9987-0a9bb506b98b.pdf)\
 台灣的紅隊演練服務在 2017 推出，今年即將邁入第七年。而在過去近 100 場的紅隊演練，我們發現不同資安成熟度的企業其實對於演練的目標跟演練方式有著不同的想法跟期待。我們將在這場演講分享 DEVCORE 定義的紅隊演練三個階段，在不同的階段企業應該用怎樣的思維、期待跟演練方式能夠達到最大的效益。同時，我們也將首次分享不同產業別在這三個階段的相關統計數據，並建議企業未來在執行紅隊演練前應該有的認知。
-![image](https://github.com/Chw41/Schedule/assets/141213003/c76c87a2-4237-48d0-9d9f-4b2c965140bb)
-![image](https://github.com/Chw41/Schedule/assets/141213003/29e68402-0880-4a86-b4e4-808dac9e5469)
 
-![image](https://github.com/Chw41/Schedule/assets/141213003/f8e1c4d8-58e9-4c85-8654-558788fa6805)
-![image](https://github.com/Chw41/Schedule/assets/141213003/ebb2a1f6-aab5-47d5-bc4e-49572ae0d144)
-![image](https://github.com/Chw41/Schedule/assets/141213003/9c472851-13fa-4d0f-b01e-03f70f5223dd)
-![image](https://github.com/Chw41/Schedule/assets/141213003/e458cdc3-e9de-4f1c-a0fe-27e2924046df)
-![image](https://github.com/Chw41/Schedule/assets/141213003/5fbce026-2cc4-40a7-bd20-2a3db33b2c44)
-![image](https://github.com/Chw41/Schedule/assets/141213003/b702b728-07be-4b49-beb9-d15c72358461)
-![image](https://github.com/Chw41/Schedule/assets/141213003/a45ffb93-7be9-4b6d-a2ee-88e79684c555)
-![image](https://github.com/Chw41/Schedule/assets/141213003/18c7a7d6-f5ac-4731-bc41-9121568a6c66)
-![image](https://github.com/Chw41/Schedule/assets/141213003/ad023d4a-3342-403c-b9e0-5d74121d8f95)
-![image](https://github.com/Chw41/Schedule/assets/141213003/1585b420-2992-4e99-9927-d7bc1aa7ce74)
-![image](https://github.com/Chw41/Schedule/assets/141213003/9bd288d3-204e-402e-b4d5-a7f8f323a3d4)
-![image](https://github.com/Chw41/Schedule/assets/141213003/1c172993-e45f-4238-9d64-8d804e782db8)
-![image](https://github.com/Chw41/Schedule/assets/141213003/989bf6f9-ee91-476f-9fce-94c0e0e4b594)
-![image](https://github.com/Chw41/Schedule/assets/141213003/b60c15cf-91bb-42a9-a115-142d22059fb8)
-![image](https://github.com/Chw41/Schedule/assets/141213003/d51878b7-5e4c-4c3c-88fd-6312fcbd3966)
-![image](https://github.com/Chw41/Schedule/assets/141213003/c6a635cc-48e7-4189-8419-a281126489d9)
 ```note
 1. 對於紅隊演練時間、演練模式、演練範圍、演練目標分類
 2. 金融/政府 詢問&採用紅隊演練比例最高
