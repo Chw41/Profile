@@ -572,6 +572,19 @@ DEVCORE 實習生導師 Angelboy 曾經說過一句話：「Pwn2Own IoT 那場�
 # TSMC SECURITY 台灣積體電路製造股份有限公司
 ## 2024/07/01-2024/08/31
 
+# HITCON CMT 2024
+## 2024/08/23-2024/08/24
+活動資訊：\
+活動名稱：HITCON CMT 2024 台灣駭客年會\
+主辦單位：社團法人台灣駭客協會（HIT）、CHROOT、中央研究院資訊科學研究所（IIS）\
+會議地點：中央研究院人文社會科學館（台北市南港區研究院路二段128號）\
+會議時間：2024 年 08 月 23 日 （五）- 2024 年 08 月 24 日（六）
+- 2024 / 08 / 23 議程\
+![image](https://hackmd.io/_uploads/Skw1yGOL0.png)
+- 2024 / 08 / 24 議程\
+![image](https://hackmd.io/_uploads/S1U_1M_8R.png)
+
+
 # ---分隔線---
 - Status: 
     - [ ] In progress
