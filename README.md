@@ -21,7 +21,18 @@
 
 # Google 資安人才培育計畫
 ## 2024/07/01 - 2024/12/31
-![image](https://hackmd.io/_uploads/SJeM_l38C.png)
+● [taiwan.googleblog](https://taiwan.googleblog.com/2024/06/gcc-launch-in-taiwan.html)\
+![image](https://hackmd.io/_uploads/SJeM_l38C.png)\
+★課程內容：\
+《八大類線上實作課程大綱》 \
+- Foundations of Cybersecurity：網路安全的演變、防範威脅、風險和漏洞、網路安全工具和程式語言。\
+- Manage Security Risks：安全領域、安全框架和控制措施、探索網路安全工具、使用操作手冊應對事件。\
+- Networks and Network Security：網路架構、網路操作、防範網路入侵、安全強化。 \
+-  Linux and SQL：操作系統概論、Linux 操作系統、Bash shell 中的 Linux 命令、資料庫與 SQL。\
+- Assets, Threats, and Vulnerabilities：資產安全概論、保護組織資產、系統中的漏洞、對資產安全的威脅。  \
+- Detection and Response：偵測與事件回應概論、網路監控與分析、事件調查與回應、使用 IDS 和 SIEM 工具分析網路流量和日誌。\
+- Automate Cybersecurity Tasks with Python： Python 概論、編寫高效的 Python 程式碼、處理字串和列表、Python 實踐應用。 \
+- Prepare for Cybersecurity Jobs：保護資料並通報事件、上呈通報事件、有效溝通以影響利害關係人、與網路安全社群互動、尋找並申請網路安全工作。
 
 # iPAS資訊安全工程師證照 中級
 ## 2023/08/10 考試
