@@ -7,6 +7,10 @@
 
 [TOC]
 
+# Cymetrics 新加坡商甯寶數位科技有限公司台灣分公司
+## 2024/09/02 - now
+![image](https://hackmd.io/_uploads/rkjUns_9C.png)
+
 # HITCON CMT 2024
 ## 2024/08/23-24
 活動資訊：\
