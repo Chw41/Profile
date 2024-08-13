@@ -80,6 +80,9 @@
 
 ## 課程時間: 2014/07/29 - 08/04
 ![image](https://hackmd.io/_uploads/rJbWcE2LC.png)
+### ● Project Group Presentation: [Github/Chw41/AIS3-2024](https://github.com/Chw41/AIS3-2024)
+> Calibre-Web, Prompt Injection
+
 
 # 台科資安社- 開箱！紅隊演練專家的職涯經驗
 ## 2024/05/16
