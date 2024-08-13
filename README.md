@@ -28,7 +28,7 @@
 ● [taiwan.googleblog](https://taiwan.googleblog.com/2024/06/gcc-launch-in-taiwan.html)\
 ![image](https://hackmd.io/_uploads/SJeM_l38C.png)\
 ★課程內容：\
-《八大類線上實作課程大綱》 \
+《八大類線上實作課程大綱》 
 - Foundations of Cybersecurity：網路安全的演變、防範威脅、風險和漏洞、網路安全工具和程式語言。\
 - Manage Security Risks：安全領域、安全框架和控制措施、探索網路安全工具、使用操作手冊應對事件。\
 - Networks and Network Security：網路架構、網路操作、防範網路入侵、安全強化。 \
