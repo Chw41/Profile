@@ -39,9 +39,6 @@ Fixing CVE-2024-4577 PHP-CGI vulnerability
 ### 2022/02 - 2022/07
 > Setting up a cloud server, page design, database, domain registration, and e-commerce payment gateway configuration.
 
-# Cymetrics 新加坡商甯寶數位科技有限公司台灣分公司
-## 2024/09/02 - now
-![image](https://hackmd.io/_uploads/rkjUns_9C.png)
 
 # HITCON CMT 2024
 ## 2024/08/23-24
@@ -50,10 +47,6 @@ Fixing CVE-2024-4577 PHP-CGI vulnerability
 主辦單位：社團法人台灣駭客協會（HIT）、CHROOT、中央研究院資訊科學研究所（IIS）\
 會議地點：中央研究院人文社會科學館（台北市南港區研究院路二段128號）\
 會議時間：2024 年 08 月 23 日 （五）- 2024 年 08 月 24 日（六）
-
-# TSMC Security 台灣積體電路製造股份有限公司
-## 2024/07/01 - 08/31
-![image](https://hackmd.io/_uploads/SJgaEwYLR.png)
 
 # Google 資安人才培育計畫
 ## 2024/07/01 - 2024/12/31
@@ -649,6 +642,3 @@ WRITE UP:
 https://aegisctf.kktix.cc/events/2023aegiscof
 ![1EAC92A7-41E7-4574-95A4-DA8D0AD36878](https://hackmd.io/_uploads/By6Owb0m6.png)
 
-# Dynasafe ADN 動力安全資訊股份有限公司
-## 2022/08/01-2023/08/18
-![image](https://hackmd.io/_uploads/HynFJvKL0.png)
