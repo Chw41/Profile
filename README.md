@@ -1,13 +1,9 @@
 # 📈Schedule
 
-:::info
+> [!NOTE]
 :bulb: 個人Schedule 論壇/比賽 紀錄
-:::
 
-# Table of Contents
-[TOC]
-
-# Work Wxperioence
+# ● Work Wxperioence
 ## Cymetrics 新加坡商甯寶數位科技有限公司台灣分公司
 ### - Security Engineering Intern
 ### 2024/09/02 - now
@@ -39,7 +35,7 @@ Fixing CVE-2024-4577 PHP-CGI vulnerability
 ### 2022/02 - 2022/07
 > Setting up a cloud server, page design, database, domain registration, and e-commerce payment gateway configuration.
 
-# Forum/Competition Record
+# ● Forum/Competition Record
 ## HITCON CMT 2024
 ### 2024/08/23-24
 活動資訊：\
