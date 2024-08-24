@@ -7,6 +7,38 @@
 
 [TOC]
 
+# Work Wxperioence
+## Cymetrics 新加坡商甯寶數位科技有限公司台灣分公司
+### - Security Engineering Intern
+### 2024/09/02 - now
+> Pentesting
+
+![image](https://hackmd.io/_uploads/rkjUns_9C.png)
+## TSMC Security 台灣積體電路製造股份有限公司
+### - Information Technology Security Engineer Intern
+### 2024/07/01 - 08/31
+> Pentesting, Privilege Escalation, Automation Script Development
+
+![image](https://hackmd.io/_uploads/SJgaEwYLR.png)
+
+## 祐群科技有限公司
+### - Full-stack Developer (Project)
+### 2023/09 - 2024/03
+> Setting up an Apache server, database, XAMPP, SSL application and installation, WAF security configuration.
+Fixing CVE-2024-4577 PHP-CGI vulnerability
+
+## Dynasafe ADN 動力安全資訊股份有限公司
+### - Cyber Security Engineer
+### 2022/08/01 - 2023/08/18
+> F5, WAF, Load Balancer, DNS, Network architecture deployment
+
+![image](https://hackmd.io/_uploads/HynFJvKL0.png)
+
+## 佳音藝術品有限公司
+### - Full-stack Developer (Project)
+### 2022/02 - 2022/07
+> Setting up a cloud server, page design, database, domain registration, and e-commerce payment gateway configuration.
+
 # Cymetrics 新加坡商甯寶數位科技有限公司台灣分公司
 ## 2024/09/02 - now
 ![image](https://hackmd.io/_uploads/rkjUns_9C.png)
