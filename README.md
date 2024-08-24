@@ -36,6 +36,13 @@ Fixing CVE-2024-4577 PHP-CGI vulnerability
 > Setting up a cloud server, page design, database, domain registration, and e-commerce payment gateway configuration.
 
 # § Forum/Competition Record
+# § Forum/Competition Record
+## 第九屆臺灣好厲駭
+![image](https://hackmd.io/_uploads/rklkqzDoC.png)
+
+### (1) 高階培訓模式
+### (2) 導師深度輔導模式
+
 ## HITCON CMT 2024
 ### 2024/08/23-24
 活動資訊：\
