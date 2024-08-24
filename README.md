@@ -1,10 +1,10 @@
 # 📈Schedule
 
-> [!NOTE]
->  :bulb: 個人Schedule 論壇/比賽 紀錄
+:::info
+:bulb: 個人Schedule 論壇/比賽 紀錄
+:::
 
 # Table of Contents
-
 [TOC]
 
 # Work Wxperioence
@@ -40,34 +40,37 @@ Fixing CVE-2024-4577 PHP-CGI vulnerability
 > Setting up a cloud server, page design, database, domain registration, and e-commerce payment gateway configuration.
 
 # Forum/Competition Record
-# HITCON CMT 2024
-## 2024/08/23-24
+## HITCON CMT 2024
+### 2024/08/23-24
 活動資訊：\
 活動名稱：HITCON CMT 2024 台灣駭客年會\
 主辦單位：社團法人台灣駭客協會（HIT）、CHROOT、中央研究院資訊科學研究所（IIS）\
 會議地點：中央研究院人文社會科學館（台北市南港區研究院路二段128號）\
 會議時間：2024 年 08 月 23 日 （五）- 2024 年 08 月 24 日（六）
+![image](https://hackmd.io/_uploads/rJzgZMPj0.png)
+![image](https://hackmd.io/_uploads/SkW8-zPi0.png)
+![image](https://hackmd.io/_uploads/B1jQ-MvsC.png)
 
-# Google 資安人才培育計畫
-## 2024/07/01 - 2024/12/31
+## Google 資安人才培育計畫
+### 2024/07/01 - 2024/12/31
 ● [taiwan.googleblog](https://taiwan.googleblog.com/2024/06/gcc-launch-in-taiwan.html)\
 ![image](https://hackmd.io/_uploads/SJeM_l38C.png)\
 ★課程內容：\
-《八大類線上實作課程大綱》 
-- Foundations of Cybersecurity：網路安全的演變、防範威脅、風險和漏洞、網路安全工具和程式語言。\
-- Manage Security Risks：安全領域、安全框架和控制措施、探索網路安全工具、使用操作手冊應對事件。\
-- Networks and Network Security：網路架構、網路操作、防範網路入侵、安全強化。 \
--  Linux and SQL：操作系統概論、Linux 操作系統、Bash shell 中的 Linux 命令、資料庫與 SQL。\
-- Assets, Threats, and Vulnerabilities：資產安全概論、保護組織資產、系統中的漏洞、對資產安全的威脅。  \
-- Detection and Response：偵測與事件回應概論、網路監控與分析、事件調查與回應、使用 IDS 和 SIEM 工具分析網路流量和日誌。\
-- Automate Cybersecurity Tasks with Python： Python 概論、編寫高效的 Python 程式碼、處理字串和列表、Python 實踐應用。 \
+《八大類線上實作課程大綱》
+- Foundations of Cybersecurity：網路安全的演變、防範威脅、風險和漏洞、網路安全工具和程式語言。
+- Manage Security Risks：安全領域、安全框架和控制措施、探索網路安全工具、使用操作手冊應對事件。
+- Networks and Network Security：網路架構、網路操作、防範網路入侵、安全強化。 
+-  Linux and SQL：操作系統概論、Linux 操作系統、Bash shell 中的 Linux 命令、資料庫與 SQL。
+- Assets, Threats, and Vulnerabilities：資產安全概論、保護組織資產、系統中的漏洞、對資產安全的威脅。  
+- Detection and Response：偵測與事件回應概論、網路監控與分析、事件調查與回應、使用 IDS 和 SIEM 工具分析網路流量和日誌。
+- Automate Cybersecurity Tasks with Python： Python 概論、編寫高效的 Python 程式碼、處理字串和列表、Python 實踐應用。 
 - Prepare for Cybersecurity Jobs：保護資料並通報事件、上呈通報事件、有效溝通以影響利害關係人、與網路安全社群互動、尋找並申請網路安全工作。
 
-# iPAS資訊安全工程師證照 中級
-## 2023/08/10 考試
+## iPAS資訊安全工程師證照 中級
+### 2023/08/10 考試
 
-# AIS3 Pre-exam CTF 2024
-## 初賽: 2024/05/25-27
+## AIS3 Pre-exam CTF 2024
+### 初賽: 2024/05/25-27
 **活動時程**\
 一、 Pre-exam 資安實務測驗報名時間：113 年 4 月 17 日上午 10 時至 113 年 5 月 2 日下午 6 時止。\
 二、 Pre-exam 資安實務測驗日期：113 年 5 月 25 日上午 10 時 30 分至 113 年 5 月 27 日下午 5 時前。\
@@ -103,14 +106,13 @@ Fixing CVE-2024-4577 PHP-CGI vulnerability
 ![image](https://hackmd.io/_uploads/Sk4v_6bNA.png)
 
 
-## 課程時間: 2014/07/29 - 08/04
+### 2024 AIS3新型態資安實務暑期課程: 2024/07/29 - 08/04
 ![image](https://hackmd.io/_uploads/rJbWcE2LC.png)
 ### ● Project Group Presentation: [Github/Chw41/AIS3-2024](https://github.com/Chw41/AIS3-2024)
 > Calibre-Web, Prompt Injection
 
-
-# 台科資安社- 開箱！紅隊演練專家的職涯經驗
-## 2024/05/16
+## 台科資安社- 開箱！紅隊演練專家的職涯經驗
+### 2024/05/16
 想要一探資安專家的工作日常並深入了解他們如何在國際舞台上大放異彩嗎？那你絕不能錯過這次的社課，我們有幸邀請到資深紅隊演練專家高敏睿 Mico 親自分享他的豐富經驗！
 
 🗓️ 日期：05/16（四）\
@@ -132,7 +134,7 @@ Fixing CVE-2024-4577 PHP-CGI vulnerability
 ![image](https://github.com/Chw41/Schedule/assets/141213003/d7d267cf-818a-41d9-bfda-0619f1578a90)
 
 
-# CYBERSEC 2024 臺灣資安大會
+## CYBERSEC 2024 臺灣資安大會
 2024 年 5 月 14 日 (二) 至 5 月 16 日 (四) 由 iThome 主辦的 CYBERSEC 2024 臺灣資安大會
 
 報到時間：5/14 (二)、5/15 (三)、5/16 (四) 皆為 08:00 起開放報到\
@@ -141,7 +143,7 @@ Fixing CVE-2024-4577 PHP-CGI vulnerability
 大會官網：https://cybersec.ithome.com.tw/2024/
 ![image](https://github.com/Chw41/Schedule/assets/141213003/4e9910ff-81da-49b4-8b8a-9adc068e771b)
 
-## 2024/05/14
+### 2024/05/14
 ### 以生成式 AI 輔助對抗進階持續威脅 (台大)
 > 許凱平 / 國立臺灣大學計算機及資訊網路中心 作業管理組 副組長
 
@@ -184,7 +186,7 @@ Fixing CVE-2024-4577 PHP-CGI vulnerability
 5. 黑箱與白相比較
 6. LLM Red Team 演練方法
 ```
-## 2024/05/15
+### 2024/05/15
 ### 資安比賽的冒險之旅：培養專業人才、職涯發展的跳板 (Cymetrics)
 > 尤理衡 (Li-Heng Yu) / Cymetrics Security Engineer
 
@@ -200,7 +202,7 @@ Fixing CVE-2024-4577 PHP-CGI vulnerability
 ```
 ### 30 分鐘看完資安工程師的一年：滲透案例解析與統整 (Cymetrics)
 > Zet / Cymetrics Security Team Leader\
-> Nick Nick / Cymetrics Senior Security Engineer
+> Nick / Cymetrics Senior Security Engineer
 
 [簡報連結](https://ccms.ithome.com.tw/api/slideapi/1473/click?l=https%3A%2F%2Fs.itho.me%2Fccms_slides%2F2024%2F5%2F23%2F81a182ef-75cb-42b0-b81a-98663508a262.pdf)\
 在 2023 年執行 30+ 客戶，超過 180+ 個滲透測試標的，從中我們發現了不少有趣的案例，包括 AI chatbot jailbreak、超過 20 年古老 CMS 的內網滲透。在 2023 年中我們主要測試的產業別為：金融, 遊戲, 餐飲。我們平均每個測試專案都可以找到至少 1 High, 1 Medium, 1 Low 的安全風險，我們將探討這其中的風險項目與統計解析。在過程中我們嘗試增進專案的執行速度與優化測試流程，希望可以與同業分享與交流。
@@ -240,7 +242,7 @@ Fixing CVE-2024-4577 PHP-CGI vulnerability
 8. 分享根據Devocore紅隊演練的成果建置框架: Red Team Security Posture Analysis Framework (RSPAF)
 9. 紅隊演練是一個思維，不是一個檢測
 ```
-## 2024/05/16
+### 2024/05/16
 ### 富邦資安反詐策略與行動方案 (富邦)
 > 蘇清偉 (Frank Su) / 富邦金控 資安長
 
@@ -307,13 +309,13 @@ Fixing CVE-2024-4577 PHP-CGI vulnerability
 8. 重新擬定演練方式：內網透過 VPN、OA筆電、OA公務機
 ```
 
-# Asian Cyber Security Challenge 2024
-## 2024/03/30-31
+## Asian Cyber Security Challenge 2024
+### 2024/03/30-31
 ![image](https://hackmd.io/_uploads/HyzylZgyC.png)
 ![image](https://hackmd.io/_uploads/S1LMxZe1A.png)
 
-# DEVCORE CONFERENCE 2024
-## 2024/03/16
+## DEVCORE CONFERENCE 2024
+### 2024/03/16
 https://conf.devco.re/2024/agenda/ \
 **活動資訊**\
 時間：\
@@ -360,8 +362,8 @@ TICC 台北國際會議中心 201 會議室（台北市信義區信義路五段 
 DEVCORE 實習生導師 Angelboy 曾經說過一句話：「Pwn2Own IoT 那場還蠻適合第一次挖掘 Real World 漏洞的人打」，於是本議程講者（DEVCORE 實習生）就以 Pwn2Own 作為實習階段目標，並且一舉拿下世界第三。此議程中將講述這次參賽是如何成功串起從 WAN 端 TP-Link ER605 Router 到 LAN 端 QNAP TS-464 NAS 的攻擊，並分享從目標挑選、研究、發現漏洞然後最後幾天被官方 patch 的過程，以及講者如何在報名截止前兩天加班趕工找到新漏洞並成功利用。本議程提及的漏洞較少被關注，相信無論是開發者或研究員都能有所收穫，敬請期待。
 
 
-# picoCTF 2024
-##  2024/03/13-27
+## picoCTF 2024
+###  2024/03/13-27
 https://play.picoctf.org/events/73
 ![image](https://hackmd.io/_uploads/rJJZuLhp6.png)
 What are the Team prizes?\
@@ -382,8 +384,8 @@ Subject to these Competition Rules and the Terms of Use, the Team prizes will be
 ![image](https://hackmd.io/_uploads/BJSoCelJ0.png)
 
 
-# Cyber Apocalypse 2024: Hacker Royale
-##  2024/03/09-13
+## Cyber Apocalypse 2024: Hacker Royale
+###  2024/03/09-13
 https://ctf.hackthebox.com/event/details/cyber-apocalypse-2024-hacker-royale-1386
 ![image](https://hackmd.io/_uploads/HkvhIU3Ta.png)
 **Event Overview**\
@@ -407,8 +409,8 @@ They hold The Fray every four years to find the "best and the brightest around."
 ![image](https://hackmd.io/_uploads/B1AUB_JAT.png)
 
 
-# 2024 TSCCTF (Taiwan Security Club Capture the Flag)
-## 初賽: 2024/01/19-22
+## 2024 TSCCTF (Taiwan Security Club Capture the Flag)
+### 初賽: 2024/01/19-22
 一、活動時間:
 自 2024 年 1 月 19 日上午 10 時至 2024 年 1 月 22 日上午 10 時止,共計
 72 小時。
@@ -460,8 +462,8 @@ Hack The Box 一個月 VIP 禮物卡
 16:05 - 大合照
 
 
-# AIS3 EOF CTF 2024
-## 初賽: 2024/01/05-07
+## AIS3 EOF CTF 2024
+### 初賽: 2024/01/05-07
 時程\
 報名時間：112 年 11 月 13 日上午 9 時至 112 年 12 月 15 日下午 17 時止\
 初賽時間：113 年 1 月 5 日上午 9 時至 113 年 1 月 7 日下午 17 時前。\
@@ -489,8 +491,8 @@ Hack The Box 一個月 VIP 禮物卡
 (6) 若參賽分數未達評審標準，經決議，獎項名次得從缺。\
 (7) 參賽證明：凡全程參與比賽者可頒發參賽證書。\
 (8) 比賽詳細議程以及本報名須知若有其他未盡事宜，或有任何變更或修改，則依主辦單位公告為主。
-## 決賽: 2024/02/03-04
-## 請隊長在30秒內回覆 第七名
+### 決賽: 2024/02/03-04
+### 請隊長在30秒內回覆 第七名
 指導單位：教育部資訊及科技教育司\
 主辦單位：教育部先進資通安全實務人才培育計畫推動辦公室\
 協辦單位：國立臺灣科技大學資訊管理系、國立臺灣科技大學資訊工程系、國立陽明交通大學資訊工程學系、國立臺灣大學資訊工程學系、國立中正大學資訊工程學系、國立臺北科技大學資訊工程系
@@ -534,8 +536,8 @@ Hack The Box 一個月 VIP 禮物卡
 ### [賽後解說大會](https://docs.google.com/presentation/d/1YWIU_xWPs5UciSGSe1mTHLWCFA5-EyPq1yyxWdIm3OU/edit)
 
 
-# HackTheBox: University CTF 2023: Brains & Bytes
-## 2023/12/08-10(UTC)
+## HackTheBox: University CTF 2023: Brains & Bytes
+### 2023/12/08-10(UTC)
 [University CTF 2023: Brains & Bytes](https://www.hackthebox.com/universities/university-ctf-2023)
 
 RULES OF THE GAME:
@@ -550,8 +552,8 @@ Don’t Become a Creature of the Night
 8. Do not be part of more than one team within the same CTF.
 9. Each University can participate/be represented by one team only.
 
-# [EDU-CTF] Computer Security 2023 Fall Course: WEB
-## 2023/12/01-15
+## [EDU-CTF] Computer Security 2023 Fall Course: WEB
+### 2023/12/01-15
 WRITE UP:
 
 ### ● [[Web] Computer Security 2023 Fall Course](https://hackmd.io/@CHW/ryPzhx0H6)
@@ -559,8 +561,8 @@ WRITE UP:
 ### ● [[Web-lab] Computer Security 2023 Fall Course](https://hackmd.io/@CHW/SkYei2sPp)
 
 
-# 2023 CGGC 網路守護者挑戰賽-- Cyber Guardian Grand Challenge
-## 初賽: 2023/12/01-02
+## 2023 CGGC 網路守護者挑戰賽-- Cyber Guardian Grand Challenge
+### 初賽: 2023/12/01-02
 指導單位：國家科學及技術委員會\
 主辦單位：財團法人國家實驗研究院國家高速網路與計算中心\
 執行單位：NDS 次世代創新數位安全協會\
@@ -582,8 +584,8 @@ WRITE UP:
 
 ●WriteUP:  https://hackmd.io/@CHW/BJJ_NAIB6
 
-# 線上資安創新講座-以攻擊策略演練角度協助企業評估、強化與呈現資安投資成效
-## 2023/12/02
+## 線上資安創新講座-以攻擊策略演練角度協助企業評估、強化與呈現資安投資成效
+### 2023/12/02
 【活動資訊】\
 活動名稱：線上資安專題講座-以攻擊策略演練角度協助企業評估、強化與呈現資安投資成效\
 指導單位：教育部資訊及科技教育司\
@@ -600,17 +602,17 @@ WRITE UP:
 15:30 - 15:50 QA座談時間\
 15:50 - 16:00 結語
 
-[專題講座PDF](https://fjuedu-my.sharepoint.com/:b:/g/personal/fj03898_m365_fju_edu_tw/EV4A0naaYB1Ao0_yaaL7JHYBgdM7zNopZJrytUqSQGYzVA?e=MlmfxY) 
+### [專題講座PDF](https://fjuedu-my.sharepoint.com/:b:/g/personal/fj03898_m365_fju_edu_tw/EV4A0naaYB1Ao0_yaaL7JHYBgdM7zNopZJrytUqSQGYzVA?e=MlmfxY) 
 
 
-# TeamT5 Security Camp 2024 筆試題目
-## 2023/11/10-12/01
+## TeamT5 Security Camp 2024 筆試題目
+### 2023/11/10-12/01
 
-# iPAS資訊安全工程師證照 初級
-## 2023/11/25 (通過)
+## iPAS資訊安全工程師證照 初級
+### 2023/11/25 (通過)
 
-# 2023台灣資安通報應變年會 (卡Hitcon 沒參加)
-## 2023/11/14
+## 2023台灣資安通報應變年會 (卡Hitcon 沒參加)
+### 2023/11/14
 活動主題：韌性資安 永續台灣\
 指導單位：數位發展部\
 主辦單位：財團法人台灣網路資訊中心、台灣電腦網路危機處理暨協調中心\
@@ -618,8 +620,8 @@ WRITE UP:
 活動日期：112年11月14日（星期二）上午09時00分至16時00分
 ![image](https://hackmd.io/_uploads/BkeI4uZAX6.png)
 
-# HITCON Carnival 2023 攻防演練論壇 & 賽況導覽
-## 2023/11/14
+## HITCON Carnival 2023 攻防演練論壇 & 賽況導覽
+### 2023/11/14
 指導單位：數位發展部數位產業署、社團法人台灣駭客協會\
 主辦單位：社團法人台灣駭客協會、工業技術研究院\
 競賽地點：臺北文創大樓 6 樓 (臺北市信義區菸廠路 88 號 )\
@@ -627,18 +629,19 @@ WRITE UP:
 論壇時間：2023 年 11 月 14 日（星期二）10:50 - 17:10（10:30 開始報到）
 ![image](https://hackmd.io/_uploads/rkrAwW07p.png)
 
-# 2023 T貓盃全國資安基礎實務能力競賽 
-## 初賽: 2023/11/10-13
-## 決賽: 2023/11/23 佳作
+## 2023 T貓盃全國資安基礎實務能力競賽 
+### 初賽: 2023/11/10-13
+### 決賽: 2023/11/23 佳作
 
-# 台科資安社-滲透測試工作坊
-## 2023/11/04
+## 台科資安社-滲透測試工作坊
+### 2023/11/04
 [HackMD Note](https://hackmd.io/@CHW/B1TblYz76)\
 ![IMG_2233](https://hackmd.io/_uploads/Hklr4mZV6.png)
 
-# 2023神盾盃資安論壇
-## 2023/11/02
+## 2023神盾盃資安論壇
+### 2023/11/02
 主辦單位：中山科學研究院
 https://aegisctf.kktix.cc/events/2023aegiscof
 ![1EAC92A7-41E7-4574-95A4-DA8D0AD36878](https://hackmd.io/_uploads/By6Owb0m6.png)
+
 
