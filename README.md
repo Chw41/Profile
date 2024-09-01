@@ -13,7 +13,8 @@
 ## TSMC Security 台灣積體電路製造股份有限公司
 ### - Information Technology Security Engineer Intern
 ### 2024/07/01 - 08/31
-> Pentesting, Privilege Escalation, Automation Script Development
+> Pentesting, Privilege Escalation, Automation Script Development\
+> Achieving Honorable Mention of the Supporting - IT Group in the 2024 DNA Internship Final Competition
 
 ![image](https://hackmd.io/_uploads/SJgaEwYLR.png)
 
