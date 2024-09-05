@@ -48,6 +48,7 @@ Fixing CVE-2024-4577 PHP-CGI vulnerability
 　　指導單位：數位發展部、教育部\
 　　主辦單位：數位發展部資通安全署\
 　　承辦單位：國家資通安全研究院\
+  ![image](https://hackmd.io/_uploads/rkyo9VD2A.png)\
 ...\
 一、初賽\
 　(一) 初賽日期：113年10月12日(六)\
