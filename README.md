@@ -37,6 +37,13 @@ Fixing CVE-2024-4577 PHP-CGI vulnerability
 > Setting up a cloud server, page design, database, domain registration, and e-commerce payment gateway configuration.
 
 # § Forum/Competition Record
+## 2024 AEGIS 神盾盃
+![image](https://hackmd.io/_uploads/B1cN_ND3R.png)
+
+### 初賽：2023/09/14
+![image](https://hackmd.io/_uploads/S1YIdEwh0.png)
+
+
 ## 第九屆臺灣好厲駭
 ![image](https://hackmd.io/_uploads/rklkqzDoC.png)
 
@@ -641,7 +648,7 @@ WRITE UP:
 [HackMD Note](https://hackmd.io/@CHW/B1TblYz76)\
 ![IMG_2233](https://hackmd.io/_uploads/Hklr4mZV6.png)
 
-## 2023神盾盃資安論壇
+## 2023 AEGIS神盾盃資安論壇
 ### 2023/11/02
 主辦單位：中山科學研究院
 https://aegisctf.kktix.cc/events/2023aegiscof
