@@ -122,10 +122,10 @@ Fixing CVE-2024-4577 PHP-CGI vulnerability
 
 
 ## 第九屆臺灣好厲駭
-![image](https://hackmd.io/_uploads/rklkqzDoC.png)
-
 ### (1) 高階培訓模式
+![image](https://hackmd.io/_uploads/rklkqzDoC.png)
 ### (2) 導師深度輔導模式
+![image](https://hackmd.io/_uploads/ryRlDD22R.png)
 
 ## HITCON CMT 2024
 ### 2024/08/23-24
