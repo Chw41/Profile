@@ -3,7 +3,7 @@
 > [!NOTE]
 :bulb: 個人Schedule 論壇/比賽 紀錄
 
-# § Work Wxperioence
+# § Work Experioence
 
 ## Cymetrics 新加坡商甯寶數位科技有限公司台灣分公司
 ### - Security Engineering Intern
