@@ -5,14 +5,6 @@
 
 # § Work Wxperioence
 
-Company | Title | Date | Description
-:------:|:---------------------:|:---------------------:|:---------------------:
-  Cymetrics   |    Security Engineering Intern    |    2024/09/02 - now    |     Pentesting & Vulnerability scanning
-  TSMC  |    Information Technology Security Engineer Intern    |   2024/07/01 - 08/31    |     Pentesting, Privilege Escalation, Automation Script Development. Achieving Honorable Mention of the Supporting - IT Group in the 2024 DNA Internship Final Competition
-  祐群科技有限公司  |    Full-stack Developer (Project)    |    2023/09 - 2024/03    |     Apache server, database, XAMPP, SSL application, WAF. Fixing CVE-2024-4577
-  Dynasafe   |   Cyber Security Engineer    |    2022/08/01 - 2023/08/18    |     F5, WAF, Load Balancer, DNS, Network architecture deployment
-佳音藝術品有限公司   |   Full-stack Developer (Project)    |   2022/02 - 2022/07    |     cloud server, UI design, database, domain registration, and e-commerce payment configuration.
-
 ## Cymetrics 新加坡商甯寶數位科技有限公司台灣分公司
 ### - Security Engineering Intern
 ### 2024/09/02 - now
