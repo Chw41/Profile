@@ -8,7 +8,7 @@
 ## Cymetrics 新加坡商甯寶數位科技有限公司台灣分公司
 ### - Security Engineering Intern
 ### 2024/09/02 - now
-> Pentesting
+> Pentesting & Vulnerability scanning
 
 ![image](https://hackmd.io/_uploads/rkjUns_9C.png)
 ## TSMC Security 台灣積體電路製造股份有限公司
