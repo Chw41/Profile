@@ -159,6 +159,9 @@ Fixing CVE-2024-4577 PHP-CGI vulnerability
 
 ## iPAS資訊安全工程師證照 中級
 ### 2023/08/10 考試
+> 沒過 XDD
+
+![image](https://hackmd.io/_uploads/SkjgTUapC.png)
 
 ## AIS3 Pre-exam CTF 2024
 ### 初賽: 2024/05/25-27
