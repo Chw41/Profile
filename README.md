@@ -120,7 +120,8 @@ Fixing CVE-2024-4577 PHP-CGI vulnerability
 七、詳細活動資訊請詳見報名網址。
 ### 初賽：2023/09/14
 ![image](https://hackmd.io/_uploads/S1YIdEwh0.png)
-
+### I'm down QQ 第三名
+### 決賽：2023/11/16
 
 ## 第九屆臺灣好厲駭
 ### (1) 高階培訓模式
