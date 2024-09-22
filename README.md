@@ -155,7 +155,7 @@ Fixing CVE-2024-4577 PHP-CGI vulnerability
 - Automate Cybersecurity Tasks with Python： Python 概論、編寫高效的 Python 程式碼、處理字串和列表、Python 實踐應用。 
 - Prepare for Cybersecurity Jobs：保護資料並通報事件、上呈通報事件、有效溝通以影響利害關係人、與網路安全社群互動、尋找並申請網路安全工作。
 
-![image](https://hackmd.io/_uploads/SkxB6hbpA.png)
+![image](https://hackmd.io/_uploads/rJCopL6p0.png)
 
 ## iPAS資訊安全工程師證照 中級
 ### 2023/08/10 考試
