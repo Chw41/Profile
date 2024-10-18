@@ -6,7 +6,7 @@
 # § Work Experioence
 
 ## Cymetrics 新加坡商甯寶數位科技有限公司台灣分公司
-### - Security Engineering Intern
+### - Security Research Engineer Intern
 ### 2024/09/02 - now
 > Pentesting & Vulnerability scanning
 
