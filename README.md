@@ -38,6 +38,18 @@ Fixing CVE-2024-4577 PHP-CGI vulnerability
 > Setting up a cloud server, page design, database, domain registration, and e-commerce payment gateway configuration.
 
 # § Forum/Competition Record
+## 2024 HITCON CTF Ｘ 菁英人才交流活動
+### 2024/11/09-10
+活動資訊：\
+活動名稱：HITCON CTF 2024 菁英人才交流活動\
+導覽地點：台北松山文創園區一號倉庫（台北市信義區光復南路 133 號 1 樓\
+活動日期：2024 年 11 月 09 日 （六）至 10 日（日）
+辦理單位\
+指導單位：數位發展部數位產業署\
+主辦單位：社團法人台灣駭客協會、財團法人工業技術研究院、CHROOT 
+![image](https://hackmd.io/_uploads/S1g6yAklkx.png)
+![image](https://hackmd.io/_uploads/HyPC10Jl1l.png)
+
 ## 113年度資安技能金盾獎
 一、活動名稱\
 　　「113年度資安技能金盾獎」競賽
