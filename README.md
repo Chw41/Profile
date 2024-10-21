@@ -138,6 +138,9 @@ Fixing CVE-2024-4577 PHP-CGI vulnerability
 ## 第九屆臺灣好厲駭
 ### (1) 高階培訓模式
 ![image](https://hackmd.io/_uploads/rklkqzDoC.png)
+### 2024/10/26「Reverse Engineering 101」課程 - TwinkleStar03 講師
+![image](https://hackmd.io/_uploads/r1eLSw7gJg.png)
+
 ### (2) 導師深度輔導模式
 ![image](https://hackmd.io/_uploads/ryRlDD22R.png)
 
