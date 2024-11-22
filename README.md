@@ -1,10 +1,46 @@
-# 📈Schedule
+# CHW - Profile
 
-> [!NOTE]
-:bulb: 個人Schedule 論壇/比賽 紀錄
 
 # § Work Experioence
 
+Company | Title | Date | Description
+:------:|:---------------------:|:---------------------:|:---------------------:|
+ Cymetrics  |    Security Research Engineer Intern    |    2024/09 - now    |     Pentesting & Vulnerability scanning
+  TSMC |    Information Technology Security Engineer Intern    |   2024/07 - 08/31    |     Pentesting, Privilege Escalation, Automation Script Development. Achieving Honorable Mention of the Supporting - IT Group in the 2024 DNA Internship Final Competition
+  祐群科技有限公司  |    Full-stack Developer (Project)    |    2023/09 - 2024/03    |     Apache server, database, XAMPP, SSL application, WAF. Fixing CVE-2024-4577
+  Dynasafe  |   Cyber Security Engineer    |    2022/08/01 - 2023/08/18    |     F5, WAF, Load Balancer, DNS, Network architecture deployment
+佳音藝術品有限公司   |   Full-stack Developer (Project)    |   2022/02 - 2022/07    |     cloud server, UI design, database, domain registration, and e-commerce payment configuration.
+
+# § Awards
+
+Competition | Ranking/Award | Date | 
+|:---------------------:|:---------------------:|:---------------------:
+  [2024 AEGIS 神盾盃 Qual](#2024-AEGIS-神盾盃)   |    Team : I'm down QQ ; Rank : 3    |    2024.09    | 
+  [2024 TSMC DNA Internship Final Competition](#TSMC-Security-台灣積體電路製造股份有限公司)   |    Honorable Mention of the Supporting - IT Group    |    2024.08    | 
+  [AIS3 Pre-exam CTF 2024](#AIS3-Pre-exam-CTF-2024)  |   Team : CHW ; Rank : 31/493    |   2024.05   | 
+  [picoCTF 2024](#picoCTF-2024)  |    Team : ISLAB#NTUT ; Rank : 461/69574    |    2024.03    | 
+  [Cyber Apocalypse 2024: Hacker Royale](#Cyber-Apocalypse-2024-Hacker-Royale)   |   Team : ISLAB@NTUT ; Rank : 1443/5693    |    2024.03    | 
+[AIS3 EOF CTF 2024 final](#AIS3-EOF-CTF-2024)   |   Team : 請隊長在30秒內回覆 ; Rank : 7    |   2024.02   | 
+[HackTheBox: University CTF 2023: Brains & Bytes](#HackTheBox-University-CTF-2023-Brains-amp-Bytes)   |   Team : NTUT ; Rank : 364/955    |   2023.12   |
+[2023 T貓盃全國資安基礎實務能力競賽](#2023-T貓盃全國資安基礎實務能力競賽)   |   Rank : 佳作  |   2023.11  |
+
+# § Forum & Event
+
+Title | Date | 
+|:---------------------:|:---------------------:
+[第九屆臺灣好厲駭 (高階培訓 & 導師深度輔導)](#第九屆臺灣好厲駭)   |   2024.08 - now    | 
+[Google 資安人才培育計畫](#Google-資安人才培育計畫)  |   2024.07 - now   | 
+[HITCON CMT 2024](#HITCON-CMT-2024)  |    2024.08    | 
+[CYBERSEC 2024 臺灣資安大會](#CYBERSEC-2024-臺灣資安大會)   |   2024.05    | 
+[DEVCORE CONFERENCE 2024](#DEVCORE-CONFERENCE-2024)   |   2024.03  | 
+[HITCON Carnival 2023 ](#HITCON-Carnival-2023-攻防演練論壇-amp-賽況導覽)  |   2023.11   |
+[2023 神盾盃資安論壇](#2023-AEGIS神盾盃資安論壇)   |   2023.11  |
+
+
+# Table Of Content
+[TOC]
+
+# § Work Experioence
 ## Cymetrics 新加坡商甯寶數位科技有限公司台灣分公司
 ### - Security Research Engineer Intern
 ### 2024/09/02 - now
@@ -18,6 +54,9 @@
 > Achieving Honorable Mention of the Supporting - IT Group in the 2024 DNA Internship Final Competition
 
 ![image](https://hackmd.io/_uploads/SJgaEwYLR.png)
+
+![image](https://hackmd.io/_uploads/SkYXw9pzyl.png)
+
 
 ## 祐群科技有限公司
 ### - Full-stack Developer (Project)
@@ -35,9 +74,13 @@ Fixing CVE-2024-4577 PHP-CGI vulnerability
 ## 佳音藝術品有限公司
 ### - Full-stack Developer (Project)
 ### 2022/02 - 2022/07
-> Setting up a cloud server, page design, database, domain registration, and e-commerce payment gateway configuration.
+> Setting up a cloud server, Frontend design, database, domain registration, and e-commerce payment gateway configuration.
+
 
 # § Forum/Competition Record
+## 114年電商產業外網資安檢測服務攻擊手
+### 2024/11/28
+
 ## 2024 HITCON CTF Ｘ 菁英人才交流活動
 ### 2024/11/09-10
 活動資訊：\
@@ -50,6 +93,7 @@ Fixing CVE-2024-4577 PHP-CGI vulnerability
 ![image](https://hackmd.io/_uploads/S1g6yAklkx.png)
 ![image](https://hackmd.io/_uploads/HyPC10Jl1l.png)
 
+
 ## 113年度資安技能金盾獎
 一、活動名稱\
 　　「113年度資安技能金盾獎」競賽
@@ -61,7 +105,7 @@ Fixing CVE-2024-4577 PHP-CGI vulnerability
 　　指導單位：數位發展部、教育部\
 　　主辦單位：數位發展部資通安全署\
 　　承辦單位：國家資通安全研究院\
-  ![image](https://hackmd.io/_uploads/rkyo9VD2A.png)\
+![image](https://hackmd.io/_uploads/rkyo9VD2A.png)\
 ...\
 一、初賽\
 　(一) 初賽日期：113年10月12日(六)\
@@ -130,10 +174,10 @@ Fixing CVE-2024-4577 PHP-CGI vulnerability
 **依所得稅法規定，參加競技、競賽或機會中獎之獎金或給與，於給付時按各類所得扣繳標準規定扣繳稅款**\
 六、本次活動競賽規則後續將於「神盾盃網路奪旗競賽Facebook粉絲專頁」及「神盾盃Instagram粉絲專頁」公告。\
 七、詳細活動資訊請詳見報名網址。
-### 初賽：2023/09/14
+### 初賽：2024/09/14
 ![image](https://hackmd.io/_uploads/S1YIdEwh0.png)
 ### I'm down QQ 第三名
-### 決賽：2023/11/16
+### 決賽：2024/11/16
 
 ## 第九屆臺灣好厲駭
 ### (1) 高階培訓模式
@@ -141,8 +185,10 @@ Fixing CVE-2024-4577 PHP-CGI vulnerability
 ### 2024/10/26「Reverse Engineering 101」課程 - TwinkleStar03 講師
 ![image](https://hackmd.io/_uploads/r1eLSw7gJg.png)
 
+
 ### (2) 導師深度輔導模式
 ![image](https://hackmd.io/_uploads/ryRlDD22R.png)
+
 
 ## HITCON CMT 2024
 ### 2024/08/23-24
@@ -177,6 +223,7 @@ Fixing CVE-2024-4577 PHP-CGI vulnerability
 > 沒過 XDD
 
 ![image](https://hackmd.io/_uploads/SkjgTUapC.png)
+
 
 ## AIS3 Pre-exam CTF 2024
 ### 初賽: 2024/05/25-27
@@ -594,7 +641,7 @@ Hack The Box 一個月 VIP 禮物卡
 ＊金獎：1 隊，獎狀乙紙。\
 ＊銀獎：1 隊，獎狀乙紙。\
 ＊銅獎：1 隊，獎狀乙紙。\
-＊潛力獎：若干名，獎狀乙紙。\
+＊潛力獎：若干名，獎狀乙紙。
 
 (5) 表現優異團隊，經評審推薦，可優先錄取參加AIS3 2024課程並獲得由教育部補助出國參加國際資安競賽機會。\
 (6) 若參賽分數未達評審標準，經決議，獎項名次得從缺。\
@@ -613,6 +660,7 @@ Hack The Box 一個月 VIP 禮物卡
 ![image](https://hackmd.io/_uploads/BJlCA61qT.png)
 
 【AIS3 EOF報到注意事項】
+
 一、決賽地點：中華電信學院板橋所會館B1樓CB100教室-新北市板橋區民族路168號。\
  (交通資訊https://www.chtti.cht.com.tw/portal/traffic_info_banqiao.jsp)
 
