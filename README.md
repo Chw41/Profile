@@ -28,6 +28,7 @@ Competition | Ranking/Award | Date |
 
 Title | Date | 
 |:---------------------:|:---------------------:
+[國家資通安全研究院電商產業外網資安檢測服務攻擊手](#114年電商產業外網資安檢測服務攻擊手)   |   2024.12 - now    |
 [第九屆臺灣好厲駭 (高階培訓 & 導師深度輔導)](#第九屆臺灣好厲駭)   |   2024.08 - now    | 
 [Google 資安人才培育計畫](#Google-資安人才培育計畫)  |   2024.07 - now   | 
 [HITCON CMT 2024](#HITCON-CMT-2024)  |    2024.08    | 
@@ -80,7 +81,9 @@ Fixing CVE-2024-4577 PHP-CGI vulnerability
 
 # § Forum/Competition Record
 ## 114年電商產業外網資安檢測服務攻擊手
-### 2024/11/28
+### 2024/11/28 遴選
+### 2024/12 - 2025/02
+![image](https://hackmd.io/_uploads/Byi44mhXke.png)
 
 ## 2024 HITCON CTF Ｘ 菁英人才交流活動
 ### 2024/11/09-10
