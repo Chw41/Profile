@@ -14,7 +14,7 @@ Company | Title | Date | Description
 # § Awards
 
 Competition | Ranking/Award | Date | 
-|:---------------------:|:---------------------:|:---------------------:
+|:---------------------|:---------------------|:---------------------:
   [2024 AEGIS 神盾盃 Qual](#2024-AEGIS-神盾盃)   |    Team : I'm down QQ ; Rank : 3    |    2024.09    | 
   [2024 TSMC DNA Internship Final Competition](#TSMC-Security-台灣積體電路製造股份有限公司)   |    Honorable Mention of the Supporting - IT Group    |    2024.08    | 
   [AIS3 Pre-exam CTF 2024](#AIS3-Pre-exam-CTF-2024)  |   Team : CHW ; Rank : 31/493    |   2024.05   | 
@@ -27,7 +27,7 @@ Competition | Ranking/Award | Date |
 # § Forum & Event
 
 Title | Date | 
-|:---------------------:|:---------------------:
+|:---------------------|:---------------------:
 [國家資通安全研究院電商產業外網資安檢測服務攻擊手](#114年電商產業外網資安檢測服務攻擊手)   |   2024.12 - now    |
 [第九屆臺灣好厲駭 (高階培訓 & 導師深度輔導)](#第九屆臺灣好厲駭)   |   2024.08 - now    | 
 [Google 資安人才培育計畫](#Google-資安人才培育計畫)  |   2024.07 - now   | 
