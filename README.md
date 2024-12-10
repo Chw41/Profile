@@ -188,7 +188,8 @@ Fixing CVE-2024-4577 PHP-CGI vulnerability
 ![image](https://hackmd.io/_uploads/rklkqzDoC.png)
 ### 2024/10/26「Reverse Engineering 101」課程 - TwinkleStar03 講師
 ![image](https://hackmd.io/_uploads/r1eLSw7gJg.png)
-
+### 2024/12/28 Web Security 輕鬆談 - Orange 講師
+![image](https://hackmd.io/_uploads/Sy_0qRr4Jg.png)
 
 ### (2) 導師深度輔導模式
 ![image](https://hackmd.io/_uploads/ryRlDD22R.png)
