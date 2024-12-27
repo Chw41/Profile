@@ -5,7 +5,7 @@
 
 Company | Title | Date | Description
 :------:|:---------------------|:---------------------:|:---------------------|
- Cymetrics  |    Security Research Engineer Intern    |    2024/09 - now    |     Pentesting & Vulnerability scanning
+ Cymetrics  |    Security Research Engineer Intern    |    2024/09 - now    |     Pentesting & Vulnerability assessment
   TSMC |    Information Technology Security Engineer Intern    |   2024/07 - 08/31    |     Pentesting, Privilege Escalation, Automation Script Development. Achieving Honorable Mention of the Supporting - IT Group in the 2024 DNA Internship Final Competition
   祐群科技有限公司  |    Full-stack Developer (Project)    |    2023/09 - 2024/03    |     Apache server, database, XAMPP, SSL application, WAF. Fixing CVE-2024-4577
   Dynasafe  |   Cyber Security Engineer    |    2022/08/01 - 2023/08/18    |     F5, WAF, Load Balancer, DNS, Network architecture deployment
