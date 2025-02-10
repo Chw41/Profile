@@ -212,6 +212,9 @@ Fixing CVE-2024-4577 PHP-CGI vulnerability
 ![image](https://hackmd.io/_uploads/r1eLSw7gJg.png)
 ### 2024/12/28 Web Security 輕鬆談 - Orange 講師
 ![image](https://hackmd.io/_uploads/Sy_0qRr4Jg.png)
+### 2025/02/15 Web仔的CTF筆記 - t510599石頭 講師
+![image](https://github.com/user-attachments/assets/0ea1be4d-ead2-46f7-8768-87bd3c687546)
+
 
 ### (2) 導師深度輔導模式
 ![image](https://hackmd.io/_uploads/ryRlDD22R.png)
