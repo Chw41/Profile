@@ -83,8 +83,7 @@ Fixing CVE-2024-4577 PHP-CGI vulnerability
 # § Forum/Competition Record
 ## DEVCORE CONFERENCE 2025
 ### 2025/03/15
-
-## AIS3 EOF CTF 2024
+## AIS3 EOF CTF 2025
 ### 初賽: 書審報名
 報名時間及方式
 
@@ -95,10 +94,13 @@ Fixing CVE-2024-4577 PHP-CGI vulnerability
 錄取名額：依各隊報名人數計算，預計錄取 60 名，候補 2 隊，最終錄取結果將於 114 年 1 月 22 日前以 e-mail 方式個別通知，並於 AIS3 EOF 活動網頁公告最終名單
 
 ### 決賽: 2024/02/07-08
-### i'm down QQ
+### I'm down QQ 第六名
 ![image](https://hackmd.io/_uploads/Sk05Vt0Pke.png)
 
+![image](https://hackmd.io/_uploads/B1jBVMDFJx.png)
+### [eof 比賽內容](https://github.com/Chw41/AIS3-EOF-final-2025/tree/main)
 ### [賽後解說大會]()
+
 
 ## 114年電商產業外網資安檢測服務攻擊手
 ### 2024/11/28 遴選
