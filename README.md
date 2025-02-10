@@ -5,7 +5,7 @@ Personal Schedule for Forums/Competitions
 
 Company | Title | Date | Description
 :------:|:---------------------|:---------------------:|:---------------------|
- Cymetrics  |    Security Research Engineer Intern    |    2024/09 - now    |     Pentesting & Vulnerability assessment
+ Cymetrics  |    Security Research Engineer Intern    |    2024/09 - 2025/01/22    |     Pentesting & Vulnerability assessment
   TSMC |    Information Technology Security Engineer Intern    |   2024/07 - 08/31    |     Pentesting, Privilege Escalation, Automation Script Development. Achieving Honorable Mention of the Supporting - IT Group in the 2024 DNA Internship Final Competition
   祐群科技有限公司  |    Full-stack Developer (Project)    |    2023/09 - 2024/03    |     Apache server, database, XAMPP, SSL application, WAF. Fixing CVE-2024-4577
   Dynasafe  |   Cyber Security Engineer    |    2022/08/01 - 2023/08/18    |     F5, WAF, Load Balancer, DNS, Network architecture deployment
@@ -15,6 +15,7 @@ Company | Title | Date | Description
 
 Competition | Ranking/Award | Date | 
 |:---------------------|:---------------------|:---------------------:
+  [AIS3 EOF CTF 2025 final](#AIS3-EOF-CTF-2025)   |    Team : I'm down QQ ; Rank : 6    |    2025.02    |
   [2024 AEGIS 神盾盃 Qual](#2024-AEGIS-神盾盃)   |    Team : I'm down QQ ; Rank : 3    |    2024.09    | 
   [2024 TSMC DNA Internship Final Competition](#TSMC-Security-台灣積體電路製造股份有限公司)   |    Honorable Mention of the Supporting - IT Group    |    2024.08    | 
   [AIS3 Pre-exam CTF 2024](#AIS3-Pre-exam-CTF-2024)  |   Team : CHW ; Rank : 31/493    |   2024.05   | 
@@ -45,7 +46,7 @@ Title | Date |
 # § Work Experioence
 ## Cymetrics 新加坡商甯寶數位科技有限公司台灣分公司
 ### - Security Research Engineer Intern
-### 2024/09/02 - now
+### 2024/09/02 - 2025/01/22
 > Pentesting & Vulnerability scanning
 
 ![image](https://hackmd.io/_uploads/rkjUns_9C.png)
