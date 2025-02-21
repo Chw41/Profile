@@ -81,6 +81,12 @@ Fixing CVE-2024-4577 PHP-CGI vulnerability
 
 
 # § Forum/Competition Record
+## CYBERSEC 2024 臺灣資安大會
+2025 年 4 月 15 日 (二) 至 4 月 17 日 (四) 由 iThome 主辦的 CYBERSEC 2025 臺灣資安大會
+### 2025/04/15
+### 2025/04/16
+### 2025/04/17
+
 ## DEVCORE CONFERENCE 2025
 ### 2025/03/15
 ## AIS3 EOF CTF 2025
