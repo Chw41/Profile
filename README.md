@@ -106,6 +106,8 @@ Fixing CVE-2024-4577 PHP-CGI vulnerability
 ### TakeKitsune Rank : 48/1174
 ![image](https://hackmd.io/_uploads/B1MZB0uc1l.png)
 ![image](https://hackmd.io/_uploads/HJJiAYOqkg.png)
+TOP25 竟然全解完...\
+![image](https://hackmd.io/_uploads/SkmZh1FcJl.png)
 
 ## AIS3 EOF CTF 2025
 ### 初賽: 書審報名
