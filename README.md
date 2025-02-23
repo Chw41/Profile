@@ -15,7 +15,7 @@ Company | Title | Date | Description
 
 Competition | Ranking/Award | Date | 
 |:---------------------|:---------------------|:---------------------:
-  [Kashi CTF 2025](#Kashi-CTF-2025)   |    Team : TakeKitsune ; Rank : 49/1174    |    2025.02   |
+  [Kashi CTF 2025](#Kashi-CTF-2025)   |    Team : TakeKitsune ; Rank : 48/1174    |    2025.02   |
   [AIS3 EOF CTF 2025 final](#AIS3-EOF-CTF-2025)   |    Team : I'm down QQ ; Rank : 6    |    2025.02    |
   [2024 AEGIS 神盾盃 Qual](#2024-AEGIS-神盾盃)   |    Team : I'm down QQ ; Rank : 3    |    2024.09    | 
   [2024 TSMC DNA Internship Final Competition](#TSMC-Security-台灣積體電路製造股份有限公司)   |    Honorable Mention of the Supporting - IT Group    |    2024.08    | 
@@ -103,8 +103,8 @@ Fixing CVE-2024-4577 PHP-CGI vulnerability
 - CTF organizers' decisions are final.
 - The person could have an unlimited number of submissions in most cases, but brute-forcing a server would be penalized and would result in an IP ban and discarding the team from the contest.
 - Attacking, DoSing, or otherwise deliberately harming the event infrastructure is strictly prohibited and will result in an immediate ban and block from the event.
-### TakeKitsune Rank : 49/1174
-![image](https://hackmd.io/_uploads/SyyVAFucyx.png)
+### TakeKitsune Rank : 48/1174
+![image](https://hackmd.io/_uploads/B1MZB0uc1l.png)
 ![image](https://hackmd.io/_uploads/HJJiAYOqkg.png)
 
 ## AIS3 EOF CTF 2025
