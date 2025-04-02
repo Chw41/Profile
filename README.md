@@ -15,6 +15,7 @@ Company | Title | Date | Description
 
 Competition | Ranking/Award | Date | 
 |:---------------------|:---------------------|:---------------------:
+  [Cyber Apocalypse CTF 2025: Tales from Eldoria](#Cyber-Apocalypse-CTF-2025-Tales-from-Eldoria) |    Team : TakeKitsune ; Rank : 752/8129    |    2025.03   |
   [Kashi CTF 2025](#Kashi-CTF-2025)   |    Team : TakeKitsune ; Rank : 48/1174    |    2025.02   |
   [AIS3 EOF CTF 2025 final](#AIS3-EOF-CTF-2025)   |    Team : I'm down QQ ; Rank : 6    |    2025.02    |
   [2024 AEGIS 神盾盃 Qual](#2024-AEGIS-神盾盃)   |    Team : I'm down QQ ; Rank : 3    |    2024.09    | 
@@ -88,6 +89,13 @@ Fixing CVE-2024-4577 PHP-CGI vulnerability
 ### 2025/04/15
 ### 2025/04/16
 ### 2025/04/17
+
+## Cyber Apocalypse CTF 2025: Tales from Eldoria
+### 2025/03/21 - 03/26
+![image](https://hackmd.io/_uploads/rJyI2ei61e.png)
+
+### TakeKitsune Rank: 752/8129
+![image](https://hackmd.io/_uploads/Sy0h5eop1g.png)
 
 ## DEVCORE CONFERENCE 2025
 ### 2025/03/15
