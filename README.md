@@ -15,14 +15,15 @@ Company | Title | Date | Description
 
 Competition | Ranking/Award | Date | 
 |:---------------------|:---------------------|:---------------------:
-  [Cyber Apocalypse CTF 2025: Tales from Eldoria](#Cyber-Apocalypse-CTF-2025-Tales-from-Eldoria) |    Team : TakeKitsune ; Rank : 752/8129    |    2025.03   |
-  [Kashi CTF 2025](#Kashi-CTF-2025)   |    Team : TakeKitsune ; Rank : 48/1174    |    2025.02   |
-  [AIS3 EOF CTF 2025 final](#AIS3-EOF-CTF-2025)   |    Team : I'm down QQ ; Rank : 6    |    2025.02    |
-  [2024 AEGIS 神盾盃 Qual](#2024-AEGIS-神盾盃)   |    Team : I'm down QQ ; Rank : 3    |    2024.09    | 
-  [2024 TSMC DNA Internship Final Competition](#TSMC-Security-台灣積體電路製造股份有限公司)   |    Honorable Mention of the Supporting - IT Group    |    2024.08    | 
-  [AIS3 Pre-exam CTF 2024](#AIS3-Pre-exam-CTF-2024)  |   Team : CHW ; Rank : 31/493    |   2024.05   | 
-  [picoCTF 2024](#picoCTF-2024)  |    Team : ISLAB#NTUT ; Rank : 461/69574    |    2024.03    | 
-  [Cyber Apocalypse 2024: Hacker Royale](#Cyber-Apocalypse-2024-Hacker-Royale)   |   Team : ISLAB@NTUT ; Rank : 1443/5693    |    2024.03    | 
+[DEF CON CTF Qualifier 2025](#DEF-CON-CTF-Qualifier-2025) |    Team : Starburst Beef Stir-Fried BambooFox ; Rank : 31   |    2025.04   |
+[Cyber Apocalypse CTF 2025: Tales from Eldoria](#Cyber-Apocalypse-CTF-2025-Tales-from-Eldoria) |    Team : TakeKitsune ; Rank : 752/8129    |    2025.03   |
+[Kashi CTF 2025](#Kashi-CTF-2025)   |    Team : TakeKitsune ; Rank : 48/1174    |    2025.02   |
+[AIS3 EOF CTF 2025 final](#AIS3-EOF-CTF-2025)   |    Team : I'm down QQ ; Rank : 6    |    2025.02    |
+[2024 AEGIS 神盾盃 Qual](#2024-AEGIS-神盾盃)   |    Team : I'm down QQ ; Rank : 3    |    2024.09    | 
+[2024 TSMC DNA Internship Final Competition](#TSMC-Security-台灣積體電路製造股份有限公司)   |    Honorable Mention of the Supporting - IT Group    |    2024.08    | 
+[AIS3 Pre-exam CTF 2024](#AIS3-Pre-exam-CTF-2024)  |   Team : CHW ; Rank : 31/493    |   2024.05   | 
+[picoCTF 2024](#picoCTF-2024)  |    Team : ISLAB#NTUT ; Rank : 461/69574    |    2024.03    | 
+[Cyber Apocalypse 2024: Hacker Royale](#Cyber-Apocalypse-2024-Hacker-Royale)   |   Team : ISLAB@NTUT ; Rank : 1443/5693    |    2024.03    | 
 [AIS3 EOF CTF 2024 final](#AIS3-EOF-CTF-2024)   |   Team : 請隊長在30秒內回覆 ; Rank : 7    |   2024.02   | 
 [HackTheBox: University CTF 2023: Brains & Bytes](#HackTheBox-University-CTF-2023-Brains-amp-Bytes)   |   Team : NTUT ; Rank : 364/955    |   2023.12   |
 [2023 T貓盃全國資安基礎實務能力競賽](#2023-T貓盃全國資安基礎實務能力競賽)   |   Rank : 佳作  |   2023.11  |
@@ -31,6 +32,7 @@ Competition | Ranking/Award | Date |
 
 Title | Date | 
 |:---------------------|:---------------------:
+[行政院國家資通安全網路攻防演練攻擊手](#114年行政院國家資通安全網路攻防演練攻擊手) | 2025.04 - 09
 [DEVCORE CONFERENCE 2025](#DEVCORE-CONFERENCE-2025) | 2025.03
 [教育部資安人才培育計畫總期程期末成果展](#教育部資安人才培育計畫總期程期末成果展) | 2025.03
 [國家資通安全研究院電商產業外網資安檢測服務攻擊手](#114年電商產業外網資安檢測服務攻擊手)   |   2024.12 - 2025.03    |
@@ -90,6 +92,18 @@ Fixing CVE-2024-4577 PHP-CGI vulnerability
 ### 2025/04/15
 ### 2025/04/16
 ### 2025/04/17
+
+## 114年行政院國家資通安全網路攻防演練攻擊手
+### 2025/03/20 遴選
+### 2025/04 - 2025/09
+![image](https://hackmd.io/_uploads/HyxwYIqCJe.png)
+
+## DEF CON CTF Qualifier 2025
+https://nautilus.institute/ \
+![image](https://hackmd.io/_uploads/rJspFiUCye.png)
+### Starburst Beef Stir-Fried BambooFox Rank: 31
+![image](https://hackmd.io/_uploads/Sy6HlAY0kx.png)
+### [- The DEF CON CTF 2025 Qualifier Solver](https://github.com/Nautilus-Institute/quals-2025)
 
 ## Cyber Apocalypse CTF 2025: Tales from Eldoria
 ### 2025/03/21 - 03/26
