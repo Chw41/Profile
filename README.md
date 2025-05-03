@@ -277,7 +277,10 @@ TOP25 竟然全解完...\
 ![image](https://hackmd.io/_uploads/Sy_0qRr4Jg.png)
 ### 2025/02/15 Web仔的CTF筆記 - t510599石頭 講師
 ![image](https://github.com/user-attachments/assets/0ea1be4d-ead2-46f7-8768-87bd3c687546)
-
+### 2025/05/03 應用密碼學與 CTF 解題實務 - 李安傑 講師
+![image](https://hackmd.io/_uploads/SkzCkgmxge.png)
+### 2025/05/17 你逆: Reverse CTF 仔的 Malware 逆向指南
+![image](https://hackmd.io/_uploads/S1ebxlQexg.png)
 
 ### (2) 導師深度輔導模式
 ![image](https://hackmd.io/_uploads/ryRlDD22R.png)
