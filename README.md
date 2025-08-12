@@ -15,7 +15,7 @@ Company | Title | Date | Description
 
 Competition | Ranking/Award | Date | 
 |:---------------------|:---------------------|:---------------------:
-[WHY2025 CTF](#WHY2025-CTF) |    Team : NTUT_Is1ab ; Rank : 31   |    2025.08   |
+[WHY2025 CTF](#WHY2025-CTF) |    Team : NTUT_Is1ab ; Rank : 188   |    2025.08   |
 [DEF CON CTF Qualifier 2025](#DEF-CON-CTF-Qualifier-2025) |    Team : Starburst Beef Stir-Fried BambooFox ; Rank : 31   |    2025.04   |
 [Cyber Apocalypse CTF 2025: Tales from Eldoria](#Cyber-Apocalypse-CTF-2025-Tales-from-Eldoria) |    Team : TakeKitsune ; Rank : 752/8129    |    2025.03   |
 [Kashi CTF 2025](#Kashi-CTF-2025)   |    Team : TakeKitsune ; Rank : 48/1174    |    2025.02   |
