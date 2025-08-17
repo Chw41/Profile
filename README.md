@@ -15,7 +15,8 @@ Company | Title | Date | Description
 
 Competition | Ranking/Award | Date | 
 |:---------------------|:---------------------|:---------------------:
-[WHY2025 CTF](#WHY2025-CTF) |    Team : NTUT_Is1ab ; Rank : 188   |    2025.08   |
+[SekaiCTF 2025](#SekaiCTF-2025) |    Team : TakeKitsune ; Rank : -   |    2025.08   |
+[WHY2025 CTF](#WHY2025-CTF) |    Team : NTUT_Is1ab ; Rank : 188/1806   |    2025.08   |
 [DEF CON CTF Qualifier 2025](#DEF-CON-CTF-Qualifier-2025) |    Team : Starburst Beef Stir-Fried BambooFox ; Rank : 31   |    2025.04   |
 [Cyber Apocalypse CTF 2025: Tales from Eldoria](#Cyber-Apocalypse-CTF-2025-Tales-from-Eldoria) |    Team : TakeKitsune ; Rank : 752/8129    |    2025.03   |
 [Kashi CTF 2025](#Kashi-CTF-2025)   |    Team : TakeKitsune ; Rank : 48/1174    |    2025.02   |
@@ -88,11 +89,17 @@ Fixing CVE-2024-4577 PHP-CGI vulnerability
 
 
 # § Forum/Competition Record
+## 	SekaiCTF 2025
+### 2025/08/16 - 08/18
+![image](https://hackmd.io/_uploads/r16LCiyYll.png)
+### TakeKitsune Rank: -
+
+
 ## 	WHY2025 CTF
 ### 2025/08/09 - 08/12
 <img width="1166" height="838" alt="image" src="https://github.com/user-attachments/assets/541ca1ba-c9d7-427a-a2c5-c0f38bbdfd8f" />
 
-### NTUT_Is1ab Rank: 188
+### NTUT_Is1ab Rank: 188/1806
 ![image](https://hackmd.io/_uploads/r1R6KX_ulx.png)
 
 ## CYBERSEC 2024 臺灣資安大會
