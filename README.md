@@ -15,7 +15,7 @@ Company | Title | Date | Description
 
 Competition | Ranking/Award | Date | 
 |:---------------------|:---------------------|:---------------------:
-[SekaiCTF 2025](#SekaiCTF-2025) |    Team : TakeKitsune ; Rank : -   |    2025.08   |
+[SekaiCTF 2025](#SekaiCTF-2025) |    Team : TakeKitsune ; Rank : 81/1060   |    2025.08   |
 [WHY2025 CTF](#WHY2025-CTF) |    Team : NTUT_Is1ab ; Rank : 188/1806   |    2025.08   |
 [DEF CON CTF Qualifier 2025](#DEF-CON-CTF-Qualifier-2025) |    Team : Starburst Beef Stir-Fried BambooFox ; Rank : 31   |    2025.04   |
 [Cyber Apocalypse CTF 2025: Tales from Eldoria](#Cyber-Apocalypse-CTF-2025-Tales-from-Eldoria) |    Team : TakeKitsune ; Rank : 752/8129    |    2025.03   |
@@ -92,7 +92,10 @@ Fixing CVE-2024-4577 PHP-CGI vulnerability
 ## 	SekaiCTF 2025
 ### 2025/08/16 - 08/18
 ![image](https://hackmd.io/_uploads/r16LCiyYll.png)
-### TakeKitsune Rank: -
+### TakeKitsune Rank: 81/1060
+![image](https://hackmd.io/_uploads/SJal3Wetlx.png)
+![image](https://hackmd.io/_uploads/ryoG2bgKle.png)
+![image](https://hackmd.io/_uploads/SJeN2bgYgx.png)
 
 
 ## 	WHY2025 CTF
