@@ -309,7 +309,9 @@ TOP25 竟然全解完...\
 ![image](https://hackmd.io/_uploads/S1ebxlQexg.png)
 
 ### (2) 導師深度輔導模式
+### 第九屆 AIS3 好厲駭 - 表現優異獎
 ![image](https://hackmd.io/_uploads/ryRlDD22R.png)
+<img width="1078" height="1517" alt="image" src="https://github.com/user-attachments/assets/d15c2e7d-3b99-4f5e-9e19-22094338c53c" />
 
 
 ## HITCON CMT 2024
