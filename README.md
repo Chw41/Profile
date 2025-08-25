@@ -15,6 +15,7 @@ Company | Title | Date | Description
 
 Competition | Ranking/Award | Date | 
 |:---------------------|:---------------------|:---------------------:
+[HITCON CTF 2025 Quals](#HITCON-CTF-2025-Quals) |    Team : 竹狐 ; Rank : 13/717   |    2025.08   |
 [SekaiCTF 2025](#SekaiCTF-2025) |    Team : TakeKitsune ; Rank : 81/1060   |    2025.08   |
 [WHY2025 CTF](#WHY2025-CTF) |    Team : NTUT_Is1ab ; Rank : 188/1806   |    2025.08   |
 [DEF CON CTF Qualifier 2025](#DEF-CON-CTF-Qualifier-2025) |    Team : Starburst Beef Stir-Fried BambooFox ; Rank : 31   |    2025.04   |
