@@ -14,10 +14,11 @@ Company | Title | Date | Description
 # § Awards
 
 Competition | Ranking/Award | Date | 
-|:---------------------|:---------------------|:---------------------:
+|:-------------------|:---------------------|:---------------------:
 [HITCON CTF 2025 Quals](#HITCON-CTF-2025-Quals) |    Team : 竹狐 ; Rank : 13/717   |    2025.08   |
 [SekaiCTF 2025](#SekaiCTF-2025) |    Team : TakeKitsune ; Rank : 81/1060   |    2025.08   |
 [WHY2025 CTF](#WHY2025-CTF) |    Team : NTUT_Is1ab ; Rank : 188/1806   |    2025.08   |
+[第九届資安實務導師制度 AIS3 好厲駭培訓](#2-%E5%B0%8E%E5%B8%AB%E6%B7%B1%E5%BA%A6%E8%BC%94%E5%B0%8E%E6%A8%A1%E5%BC%8F) |   表現優異獎   |    2025.07   |
 [DEF CON CTF Qualifier 2025](#DEF-CON-CTF-Qualifier-2025) |    Team : Starburst Beef Stir-Fried BambooFox ; Rank : 31   |    2025.04   |
 [Cyber Apocalypse CTF 2025: Tales from Eldoria](#Cyber-Apocalypse-CTF-2025-Tales-from-Eldoria) |    Team : TakeKitsune ; Rank : 752/8129    |    2025.03   |
 [Kashi CTF 2025](#Kashi-CTF-2025)   |    Team : TakeKitsune ; Rank : 48/1174    |    2025.02   |
