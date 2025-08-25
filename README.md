@@ -87,8 +87,15 @@ Fixing CVE-2024-4577 PHP-CGI vulnerability
 ### 2022/02 - 2022/07
 > Setting up a cloud server, Frontend design, database, domain registration, and e-commerce payment gateway configuration.
 
-
 # § Forum/Competition Record
+## HITCON CTF 2025 Quals
+### 2025/08/22 - 08/24
+![image](https://hackmd.io/_uploads/ByBYG0ttgx.png)
+### 竹狐 Rank: 13/717
+Web 題坐牢 20 多小時，全靠隊友 QQ 🦊\
+![image](https://hackmd.io/_uploads/rJcofRKtxg.png)
+![image](https://hackmd.io/_uploads/S1OZE0FKlg.png)
+
 ## 	SekaiCTF 2025
 ### 2025/08/16 - 08/18
 ![image](https://hackmd.io/_uploads/r16LCiyYll.png)
