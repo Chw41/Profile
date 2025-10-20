@@ -51,9 +51,6 @@ Title | Date |
 [2023 神盾盃資安論壇](#2023-AEGIS神盾盃資安論壇)   |   2023.11  |
 
 
-# Table Of Content
-[TOC]
-
 # § Work Experioence
 ## Cymetrics 新加坡商甯寶數位科技有限公司台灣分公司
 ### - Security Research Engineer Intern
