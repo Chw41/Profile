@@ -90,6 +90,11 @@ Fixing CVE-2024-4577 PHP-CGI vulnerability
 > Setting up a cloud server, Frontend design, database, domain registration, and e-commerce payment gateway configuration.
 
 # § Forum/Competition Record
+## OffSec Certified Professional Plus (OSCP+)
+### 2025/09 (通過)
+解鎖 Offsec 新手村
+![image](https://hackmd.io/_uploads/BkZnmd7Ael.png)
+
 ## HITCON CTF 2025 Quals
 ### 2025/08/22 - 08/24
 ![image](https://hackmd.io/_uploads/ByBYG0ttgx.png)
