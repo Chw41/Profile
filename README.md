@@ -15,6 +15,7 @@ Company | Title | Date | Description
 
 Competition | Ranking/Award | Date | 
 |:-------------------|:---------------------|:---------------------:
+[OffSec Certified Professional Plus](https://github.com/Chw41/OffSec-Certification/tree/main/%5BOSCP%2C%20PEN-200%5D%20Offensive%20Security%20Certified%20Professional%20) |    OSCP+   |    2025.09   |
 [HITCON CTF 2025 Quals](#HITCON-CTF-2025-Quals) |    Team : 竹狐 ; Rank : 13/717   |    2025.08   |
 [SekaiCTF 2025](#SekaiCTF-2025) |    Team : TakeKitsune ; Rank : 81/1060   |    2025.08   |
 [WHY2025 CTF](#WHY2025-CTF) |    Team : NTUT_Is1ab ; Rank : 188/1806   |    2025.08   |
