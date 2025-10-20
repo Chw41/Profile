@@ -104,6 +104,9 @@ Web 題坐牢 20 多小時，全靠隊友 QQ 🦊\
 ![image](https://hackmd.io/_uploads/rJcofRKtxg.png)
 ![image](https://hackmd.io/_uploads/S1OZE0FKlg.png)
 
+後來有事沒參加到決賽，隊友們拿了 HITCON CTF 2025 Final 1st 🛐
+![image](https://hackmd.io/_uploads/BkIJddXAge.png)
+
 ## 	SekaiCTF 2025
 ### 2025/08/16 - 08/18
 ![image](https://hackmd.io/_uploads/r16LCiyYll.png)
