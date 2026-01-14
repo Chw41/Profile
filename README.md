@@ -44,6 +44,7 @@ Title | Date |
 |:---------------------|:---------------------:
 [DEVCORE CONFERENCE 2026](#114年行政院國家資通安全網路攻防演練攻擊手) | 2025.03
 [2026 金盾獎 CTF 賽事線上分享會](#114年行政院國家資通安全網路攻防演練攻擊手) | 2025.01
+[/dev/meet 資安小聚](#devmeet-%E8%B3%87%E5%AE%89%E5%B0%8F%E8%81%9A) | 2025.01
 [行政院國家資通安全網路攻防演練攻擊手](#114年行政院國家資通安全網路攻防演練攻擊手) | 2025.04 - 2025.10
 [DEVCORE CONFERENCE 2025](#DEVCORE-CONFERENCE-2025) | 2025.03
 [教育部資安人才培育計畫總期程期末成果展](#教育部資安人才培育計畫總期程期末成果展) | 2025.03
@@ -136,25 +137,37 @@ DEVCORE 深信，厚實的技術同時是攻擊及防禦的根本，因此，我
 15:05 – 15:45｜Q＆A\
 15:45 – 16:00｜填寫回饋表單
 
-### Rapid7 Technical Sales Professional (RTSP)
+## Rapid7 Technical Sales Professional (RTSP)
 ### 2026/01 (PASS)
 Including `Foundation Certification`, `Surface Command Certification`, `Exposure Command Certification`, `InsightIDR Product Certification`, `InsightVM Product Certification` and `Incident Command Certification`\
 ![image](https://hackmd.io/_uploads/r1Iv-A4r-g.png)
 
 
-### Rapid7 Sales Professional (RSP)
+## Rapid7 Sales Professional (RSP)
 ### 2026/01 (PASS)
 ![image](https://hackmd.io/_uploads/HyO6xANBWl.png)
 
+## /dev/meet 資安小聚
+### 2025/12/17
+#### - 關於 /dev/meet 資安小聚 
+我們想找一群對技術上癮、對資安有話想說的人，一起打破框架，把經驗攤開來聊，無論你是紅隊、藍隊、火箭隊、還是剛入門的新手，一起來聊聊你的實戰、翻車、奇技淫巧、或那個讓你 debug 到天亮的故事——這裡都有一群人懂你。
+
+這是一場專為駭客們打造的社群聚會，
+想分享技術、聊漏洞、或深入那些 talk 講不完的技術細節，一起加入小聚吧！
+#### - 活動消息 
+✔︎  活動時間：2025/12/17（三）19:00 - 21:00\
+✔︎  活動地點：兆基文教大樓，臺北市松山區南京東路四段 120 巷 11 號 9 樓 9B 會議室（捷運小巨蛋站 4 號出口步行約 5 分鐘）
+
+![image](https://hackmd.io/_uploads/H1MIGRNSWl.png)
 
 
-### Pentera Security Validation Associate Certification
+## Pentera Security Validation Associate Certification
 ### 2025/12 (PASS)
 
 ![image](https://hackmd.io/_uploads/S1rftTVS-g.png)
 
 
-### Pentera Security Validation Sales Associate Certification
+## Pentera Security Validation Sales Associate Certification
 ### 2025/12 (PASS)
 
 ![image](https://hackmd.io/_uploads/rJvQYT4rWg.png)
