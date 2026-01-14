@@ -1,10 +1,11 @@
 # CHW - Profile
 Personal Schedule for Forums/Competitions
 
-# § Work Experioence
+# § Work Experience
 
 Company | Title | Date | Description
 :------:|:---------------------|:---------------------:|:---------------------|
+ ABP Securite  |    Solution Engineer    |    2025/12 - Current    |     Red Team, Pentesting & Pentera Service
  Cymetrics  |    Security Research Engineer Intern    |    2024/09 - 2025/01/22    |     Pentesting & Vulnerability assessment
   TSMC |    Information Technology Security Engineer Intern    |   2024/07 - 08/31    |     Pentesting, Privilege Escalation, Automation Script Development. Achieving Honorable Mention of the Supporting - IT Group in the 2024 DNA Internship Final Competition
   祐群科技有限公司  |    Full-stack Developer (Project)    |    2023/09 - 2024/03    |     Apache server, database, XAMPP, SSL application, WAF. Fixing CVE-2024-4577
@@ -15,6 +16,10 @@ Company | Title | Date | Description
 
 Competition | Ranking/Award | Date | 
 |:-------------------|:---------------------|:---------------------:
+[Rapid7 Technical Sales Professional](#Rapid7-Technical-Sales-Professional-RTSP31) |    Rapid7 (RTSP)   |    2026.01   |
+[Rapid7 Sales Professional](#Rapid7-Sales-Professional-RSP) |    Rapid7 (RSP)  |    2026.01   |
+[Pentera Security Validation Associate Certification](#Pentera-Security-Validation-Associate-Certification) |    Pentera   |    2025.12   |
+[Pentera Security Validation Sales Associate Certification](#Pentera-Security-Validation-Sales-Associate-Certification) |    Pentera   |    2025.12   |
 [OffSec Certified Professional Plus](https://github.com/Chw41/OffSec-Certification/tree/main/%5BOSCP%2C%20PEN-200%5D%20Offensive%20Security%20Certified%20Professional%20) |    OSCP+   |    2025.09   |
 [HITCON CTF 2025 Quals](#HITCON-CTF-2025-Quals) |    Team : 竹狐 ; Rank : 13/717   |    2025.08   |
 [SekaiCTF 2025](#SekaiCTF-2025) |    Team : TakeKitsune ; Rank : 81/1060   |    2025.08   |
@@ -22,13 +27,13 @@ Competition | Ranking/Award | Date |
 [第九届資安實務導師制度 AIS3 好厲駭培訓](#2-%E5%B0%8E%E5%B8%AB%E6%B7%B1%E5%BA%A6%E8%BC%94%E5%B0%8E%E6%A8%A1%E5%BC%8F) |   表現優異獎   |    2025.07   |
 [DEF CON CTF Qualifier 2025](#DEF-CON-CTF-Qualifier-2025) |    Team : Starburst Beef Stir-Fried BambooFox ; Rank : 31   |    2025.04   |
 [Cyber Apocalypse CTF 2025: Tales from Eldoria](#Cyber-Apocalypse-CTF-2025-Tales-from-Eldoria) |    Team : TakeKitsune ; Rank : 752/8129    |    2025.03   |
-[Kashi CTF 2025](#Kashi-CTF-2025)   |    Team : TakeKitsune ; Rank : 48/1174    |    2025.02   |
-[AIS3 EOF CTF 2025 final](#AIS3-EOF-CTF-2025)   |    Team : I'm down QQ ; Rank : 6    |    2025.02    |
-[2024 AEGIS 神盾盃 Qual](#2024-AEGIS-神盾盃)   |    Team : I'm down QQ ; Rank : 3    |    2024.09    | 
-[2024 TSMC DNA Internship Final Competition](#TSMC-Security-台灣積體電路製造股份有限公司)   |    Honorable Mention of the Supporting - IT Group    |    2024.08    | 
-[AIS3 Pre-exam CTF 2024](#AIS3-Pre-exam-CTF-2024)  |   Team : CHW ; Rank : 31/493    |   2024.05   | 
-[picoCTF 2024](#picoCTF-2024)  |    Team : ISLAB#NTUT ; Rank : 461/69574    |    2024.03    | 
-[Cyber Apocalypse 2024: Hacker Royale](#Cyber-Apocalypse-2024-Hacker-Royale)   |   Team : ISLAB@NTUT ; Rank : 1443/5693    |    2024.03    | 
+  [Kashi CTF 2025](#Kashi-CTF-2025)   |    Team : TakeKitsune ; Rank : 48/1174    |    2025.02   |
+  [AIS3 EOF CTF 2025 final](#AIS3-EOF-CTF-2025)   |    Team : I'm down QQ ; Rank : 6    |    2025.02    |
+  [2024 AEGIS 神盾盃 Qual](#2024-AEGIS-神盾盃)   |    Team : I'm down QQ ; Rank : 3    |    2024.09    | 
+  [2024 TSMC DNA Internship Final Competition](#TSMC-Security-台灣積體電路製造股份有限公司)   |    Honorable Mention of the Supporting - IT Group    |    2024.08    | 
+  [AIS3 Pre-exam CTF 2024](#AIS3-Pre-exam-CTF-2024)  |   Team : CHW ; Rank : 31/493    |   2024.05   | 
+  [picoCTF 2024](#picoCTF-2024)  |    Team : ISLAB#NTUT ; Rank : 461/69574    |    2024.03    | 
+  [Cyber Apocalypse 2024: Hacker Royale](#Cyber-Apocalypse-2024-Hacker-Royale)   |   Team : ISLAB@NTUT ; Rank : 1443/5693    |    2024.03    | 
 [AIS3 EOF CTF 2024 final](#AIS3-EOF-CTF-2024)   |   Team : 請隊長在30秒內回覆 ; Rank : 7    |   2024.02   | 
 [HackTheBox: University CTF 2023: Brains & Bytes](#HackTheBox-University-CTF-2023-Brains-amp-Bytes)   |   Team : NTUT ; Rank : 364/955    |   2023.12   |
 [2023 T貓盃全國資安基礎實務能力競賽](#2023-T貓盃全國資安基礎實務能力競賽)   |   Rank : 佳作  |   2023.11  |
@@ -37,12 +42,14 @@ Competition | Ranking/Award | Date |
 
 Title | Date | 
 |:---------------------|:---------------------:
-[行政院國家資通安全網路攻防演練攻擊手](#114年行政院國家資通安全網路攻防演練攻擊手) | 2025.04 - now
+[DEVCORE CONFERENCE 2026](#114年行政院國家資通安全網路攻防演練攻擊手) | 2025.03
+[2026 金盾獎 CTF 賽事線上分享會](#114年行政院國家資通安全網路攻防演練攻擊手) | 2025.01
+[行政院國家資通安全網路攻防演練攻擊手](#114年行政院國家資通安全網路攻防演練攻擊手) | 2025.04 - 2025.10
 [DEVCORE CONFERENCE 2025](#DEVCORE-CONFERENCE-2025) | 2025.03
 [教育部資安人才培育計畫總期程期末成果展](#教育部資安人才培育計畫總期程期末成果展) | 2025.03
 [國家資通安全研究院電商產業外網資安檢測服務攻擊手](#114年電商產業外網資安檢測服務攻擊手)   |   2024.12 - 2025.03    |
-[第九屆臺灣好厲駭 (高階培訓 & 導師深度輔導)](#第九屆臺灣好厲駭)   |   2024.08 - 2025.07    | 
-[Google 資安人才培育計畫](#Google-資安人才培育計畫)  |   2024.07 - 12   | 
+[第九屆臺灣好厲駭 (高階培訓 & 導師深度輔導)](#第九屆臺灣好厲駭)   |   2024.08 - 2025.07    |
+[Google 資安人才培育計畫](#Google-資安人才培育計畫)  |   2024.07 - 12   |
 [HITCON CMT 2024](#HITCON-CMT-2024)  |    2024.08    | 
 [2024 AIS3新型態資安實務暑期課程](#2024-AIS3新型態資安實務暑期課程-20240729---0804)  |   2024.07 - 08   |
 [CYBERSEC 2024 臺灣資安大會](#CYBERSEC-2024-臺灣資安大會)   |   2024.05    | 
@@ -51,7 +58,18 @@ Title | Date |
 [2023 神盾盃資安論壇](#2023-AEGIS神盾盃資安論壇)   |   2023.11  |
 
 
+# Table Of Content
+[TOC]
+
 # § Work Experioence
+## ABP Securite Pte Ltd 安普新科技有限公司
+### - Solution Engineer
+### 2025/12/01 - Current
+> Red team, Pentesting & Pentera Service
+
+![image](https://hackmd.io/_uploads/HkLtOTNS-l.png)
+
+
 ## Cymetrics 新加坡商甯寶數位科技有限公司台灣分公司
 ### - Security Research Engineer Intern
 ### 2024/09/02 - 2025/01/22
@@ -87,11 +105,66 @@ Fixing CVE-2024-4577 PHP-CGI vulnerability
 ### 2022/02 - 2022/07
 > Setting up a cloud server, Frontend design, database, domain registration, and e-commerce payment gateway configuration.
 
+
 # § Forum/Competition Record
+
+## DEVCORE CONFERENCE 2026
+### 2024/03/16
+https://conf.devco.re/2026/ \
+**活動資訊**\
+時間：\
+2026/03/14（六）08:40 - 16:50\
+地點：\
+TICC 台北國際會議中心 201 會議室（台北市信義區信義路五段 1 號） \
+**議程介紹**\
+2025 年，網路攻擊更趨頻繁及規模化，在 AI 的推波助瀾下，不只防禦方得以更精準捕獲攻擊者，對攻擊者而言，也利用 AI 對企業產生更多威脅。而這些資安議題的影響範疇，更是從企業本身的防護政策、延伸至其供應商，甚至產品安全。\
+DEVCORE 深信，厚實的技術同時是攻擊及防禦的根本，因此，我們持續舉辦這場專注於攻擊導向的技術研討會 —— DEVCORE CONFERENCE，聚焦技術本質，由駭客視角出發，帶您探索不一樣的攻擊技術與手法，期望由攻擊思考防禦策略，並在問題發生前，掌握新型攻擊手法。\
+本次研討會將聚焦「技術」核心，探討針對不同目標、不同領域的資安網路技術應用。期盼透過這些攻擊戰術及手法的分享，與您共同應對不斷變化的網路攻擊威脅。
+
+## 2026 金盾獎 CTF 賽事線上分享會
+### 2026/01/17
+📌 【活動資訊】\
+⭐ 日期時間：2026/01/17 (六) 13:00-16:00\
+⭐ 辦理形式：線上會議室\
+⭐ 報名期間：即日起至1/15(四)中午12:00前截止\
+⭐ 活動流程概述：\
+12:30 – 13:00｜開放參與者加入線上會議室\
+13:00 – 14:00｜金盾20精選題目解說\
+14:00 – 14:10｜中場休息\
+14:10 – 14:55｜CTF參賽與學習經驗分享\
+14:55 – 15:05｜中場休息\
+15:05 – 15:45｜Q＆A\
+15:45 – 16:00｜填寫回饋表單
+
+### Rapid7 Technical Sales Professional (RTSP)
+### 2026/01 (PASS)
+Including `Foundation Certification`, `Surface Command Certification`, `Exposure Command Certification`, `InsightIDR Product Certification`, `InsightVM Product Certification` and `Incident Command Certification`\
+![image](https://hackmd.io/_uploads/r1Iv-A4r-g.png)
+
+
+### Rapid7 Sales Professional (RSP)
+### 2026/01 (PASS)
+![image](https://hackmd.io/_uploads/HyO6xANBWl.png)
+
+
+
+### Pentera Security Validation Associate Certification
+### 2025/12 (PASS)
+
+![image](https://hackmd.io/_uploads/S1rftTVS-g.png)
+
+
+### Pentera Security Validation Sales Associate Certification
+### 2025/12 (PASS)
+
+![image](https://hackmd.io/_uploads/rJvQYT4rWg.png)
+
+
 ## OffSec Certified Professional Plus (OSCP+)
-### 2025/09 (通過)
+### 2025/09 (PASS)
 解鎖 Offsec 新手村
 ![image](https://hackmd.io/_uploads/BkZnmd7Ael.png)
+
 
 ## HITCON CTF 2025 Quals
 ### 2025/08/22 - 08/24
@@ -115,8 +188,7 @@ Web 題坐牢 20 多小時，全靠隊友 QQ 🦊\
 
 ## 	WHY2025 CTF
 ### 2025/08/09 - 08/12
-<img width="1166" height="838" alt="image" src="https://github.com/user-attachments/assets/541ca1ba-c9d7-427a-a2c5-c0f38bbdfd8f" />
-
+![image](https://private-user-images.githubusercontent.com/141213003/476842687-541ca1ba-c9d7-427a-a2c5-c0f38bbdfd8f.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjA5NDk1NjIsIm5iZiI6MTc2MDk0OTI2MiwicGF0aCI6Ii8xNDEyMTMwMDMvNDc2ODQyNjg3LTU0MWNhMWJhLWM5ZDctNDI3YS1hMmM1LWMwZjM4YmJkZmQ4Zi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUxMDIwJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MTAyMFQwODM0MjJaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1lM2E4OTM1YTM2ODFlYzk1ZWI5NjFmYmQ0ZDY2ZTczMGY2MTFjZGEzMzQ2ZjAzMmUwZDY2NTVmMmVhMTUyNGE2JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.I8TQ4olGvtAoko_7mP19lJdY0NfWbXfjcmdJRGLTPmA)
 ### NTUT_Is1ab Rank: 188/1806
 ![image](https://hackmd.io/_uploads/r1R6KX_ulx.png)
 
@@ -126,22 +198,23 @@ Web 題坐牢 20 多小時，全靠隊友 QQ 🦊\
 ### 2025/04/16
 ### 2025/04/17
 
+
+## DEF CON CTF Qualifier 2025
+https://nautilus.institute/ \
+![image](https://hackmd.io/_uploads/rJspFiUCye.png)
+### 2025/04/12 - 14
+### Starburst Beef Stir-Fried BambooFox Rank: 31
+![image](https://hackmd.io/_uploads/Sy6HlAY0kx.png)
+### [- The DEF CON CTF 2025 Qualifier Solver](https://github.com/Nautilus-Institute/quals-2025)
+
 ## 114年行政院國家資通安全網路攻防演練攻擊手
 ### 2025/03/20 遴選
 ### 2025.04 - now
 ![image](https://hackmd.io/_uploads/HyxwYIqCJe.png)
 
-## DEF CON CTF Qualifier 2025
-https://nautilus.institute/ \
-![image](https://hackmd.io/_uploads/rJspFiUCye.png)
-### Starburst Beef Stir-Fried BambooFox Rank: 31
-![image](https://hackmd.io/_uploads/Sy6HlAY0kx.png)
-### [- The DEF CON CTF 2025 Qualifier Solver](https://github.com/Nautilus-Institute/quals-2025)
-
 ## Cyber Apocalypse CTF 2025: Tales from Eldoria
 ### 2025/03/21 - 03/26
 ![image](https://hackmd.io/_uploads/rJyI2ei61e.png)
-
 ### TakeKitsune Rank: 752/8129
 ![image](https://hackmd.io/_uploads/Sy0h5eop1g.png)
 
@@ -161,6 +234,7 @@ https://nautilus.institute/ \
 
 ![image](https://hackmd.io/_uploads/Syz1C7Qokg.png)
 
+
 ## Kashi CTF 2025
 ### 2025/02/22 - 2025/02/23 (CST)
 ![image](https://hackmd.io/_uploads/ryJ43V_qJx.png)
@@ -179,6 +253,8 @@ https://nautilus.institute/ \
 TOP25 竟然全解完...\
 ![image](https://hackmd.io/_uploads/SkmZh1FcJl.png)
 
+
+
 ## AIS3 EOF CTF 2025
 ### 初賽: 書審報名
 報名時間及方式
@@ -189,7 +265,7 @@ TOP25 竟然全解完...\
 
 錄取名額：依各隊報名人數計算，預計錄取 60 名，候補 2 隊，最終錄取結果將於 114 年 1 月 22 日前以 e-mail 方式個別通知，並於 AIS3 EOF 活動網頁公告最終名單
 
-### 決賽: 2024/02/07-08
+### 決賽: 2025/02/07-08
 ### I'm down QQ 第六名
 ![image](https://hackmd.io/_uploads/Sk05Vt0Pke.png)
 
@@ -197,11 +273,11 @@ TOP25 竟然全解完...\
 ### [eof 比賽內容](https://github.com/Chw41/AIS3-EOF-final-2025/tree/main)
 ### [賽後解說大會]()
 
-
 ## 114年電商產業外網資安檢測服務攻擊手
 ### 2024/11/28 遴選
-### 2024/12 - 2025/02
+### 2024/12 - 2025/04
 ![image](https://hackmd.io/_uploads/Byi44mhXke.png)
+
 
 ## 2024 HITCON CTF Ｘ 菁英人才交流活動
 ### 2024/11/09-10
@@ -304,7 +380,7 @@ TOP25 竟然全解完...\
 ## 第九屆臺灣好厲駭
 ### (1) 高階培訓模式
 ![image](https://hackmd.io/_uploads/rklkqzDoC.png)
-### 2024/10/26「Reverse Engineering 101」課程 - TwinkleStar03 講師
+### 2024/10/26 Reverse Engineering 101 - TwinkleStar03 講師
 ![image](https://hackmd.io/_uploads/r1eLSw7gJg.png)
 ### 2024/12/28 Web Security 輕鬆談 - Orange 講師
 ![image](https://hackmd.io/_uploads/Sy_0qRr4Jg.png)
@@ -315,10 +391,11 @@ TOP25 竟然全解完...\
 ### 2025/05/17 你逆: Reverse CTF 仔的 Malware 逆向指南
 ![image](https://hackmd.io/_uploads/S1ebxlQexg.png)
 
+
 ### (2) 導師深度輔導模式
-### 第九屆 AIS3 好厲駭 - 表現優異獎
 ![image](https://hackmd.io/_uploads/ryRlDD22R.png)
-<img width="1078" height="1517" alt="image" src="https://github.com/user-attachments/assets/d15c2e7d-3b99-4f5e-9e19-22094338c53c" />
+### 第九屆 AIS3 好厲駭 - 表現優異獎
+![image](https://scontent-tpe1-1.xx.fbcdn.net/v/t51.82787-15/524010137_18020154221737923_8913363406172602173_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=127cfc&_nc_ohc=x40i90odXdkQ7kNvwEguKLv&_nc_oc=Adm-SCmH8zS4hFly9Gi6ESyZQSW82yuS0liqJjLjCgAnY1SlH0jqP9vztYo_hv0FaZo&_nc_zt=23&_nc_ht=scontent-tpe1-1.xx&_nc_gid=6p8jhny2_oD4Aerx3PdZ-w&oh=00_AfUShHThQmz9vi9rrBtBr10PhcHCVhS3OHB9IpVxu9XxqQ&oe=68B23432)
 
 
 ## HITCON CMT 2024
@@ -623,7 +700,7 @@ TICC 台北國際會議中心 201 會議室（台北市信義區信義路五段 
 
 “WAF” 作為一種已臻於成熟的技術產品，不僅是抵禦網路威脅的高壘深塹，其發展速度也猶如是向紅隊發出了挑戰。本議程將回顧早期的繞過技巧，以及介紹至今紅隊專家如何鑿壁偷光？議程中將簡單解析 WAF 的基本原理，探討紅隊如何在實際情況中，成功讓關鍵請求繞過這些安全措施。亦會分享一些從實戰中提煉出的經驗，包括那些起初看似不可能繞過，卻屢屢成功實現的真實案例。同時也提出了自動變換 IP 位置和多請求的自動化識別繞過輔助工具。最後將從戴夫寇爾視角總結 WAF 在當今網路安全生態中的地位和效力。
 
-### 3. The Art of Cyber Craftsman：紅隊該如何打造自己的利器\
+### 3. The Art of Cyber Craftsman：紅隊該如何打造自己的利器
 >Inndy | DEVCORE 資深開發工程師
 
 執行滲透測試與紅隊演練時，往往需要各式各樣的網路代理與後門工具，市面上的工具可能無法完美滿足需求，常見的工具又經常被防毒軟體與 EDR 阻擋，自己打造紅隊工具能滿足客製化的需求並大幅降低被偵測的機率。這場議程講者會基於過去分析惡意程式的經驗，分享開發紅隊工具的心得、技巧，幫助大家降低自行研發紅隊工具的門檻。
