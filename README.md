@@ -110,7 +110,7 @@ Fixing CVE-2024-4577 PHP-CGI vulnerability
 # § Forum/Competition Record
 
 ## DEVCORE CONFERENCE 2026
-### 2024/03/16
+### 2024/03/14
 https://conf.devco.re/2026/ \
 **活動資訊**\
 時間：\
