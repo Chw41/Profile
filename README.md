@@ -16,6 +16,7 @@ Company | Title | Date | Description
 
 Competition | Ranking/Award | Date | 
 |:-------------------|:---------------------|:---------------------:
+[OffSec Web Assessor](https://github.com/Chw41/OffSec-Certification/tree/main/%5BOSCP%2C%20PEN-200%5D%20Offensive%20Security%20Certified%20Professional%20) |    OSWA   |    2026.02   |
 [Rapid7 Technical Sales Professional](#Rapid7-Technical-Sales-Professional-RTSP31) |    Rapid7 (RTSP)   |    2026.01   |
 [Rapid7 Sales Professional](#Rapid7-Sales-Professional-RSP) |    Rapid7 (RSP)  |    2026.01   |
 [Pentera Security Validation Associate Certification](#Pentera-Security-Validation-Associate-Certification) |    Pentera   |    2025.12   |
@@ -121,6 +122,13 @@ TICC 台北國際會議中心 201 會議室（台北市信義區信義路五段 
 2025 年，網路攻擊更趨頻繁及規模化，在 AI 的推波助瀾下，不只防禦方得以更精準捕獲攻擊者，對攻擊者而言，也利用 AI 對企業產生更多威脅。而這些資安議題的影響範疇，更是從企業本身的防護政策、延伸至其供應商，甚至產品安全。\
 DEVCORE 深信，厚實的技術同時是攻擊及防禦的根本，因此，我們持續舉辦這場專注於攻擊導向的技術研討會 —— DEVCORE CONFERENCE，聚焦技術本質，由駭客視角出發，帶您探索不一樣的攻擊技術與手法，期望由攻擊思考防禦策略，並在問題發生前，掌握新型攻擊手法。\
 本次研討會將聚焦「技術」核心，探討針對不同目標、不同領域的資安網路技術應用。期盼透過這些攻擊戰術及手法的分享，與您共同應對不斷變化的網路攻擊威脅。
+
+## OffSec Web Assessor (OSWA)
+### 2025/02 (PASS)
+解鎖 Offsec Web 新手村\
+![image](https://hackmd.io/_uploads/Skhv5ZRv-l.png)
+
+
 
 ## 2026 金盾獎 CTF 賽事線上分享會
 ### 2026/01/17
